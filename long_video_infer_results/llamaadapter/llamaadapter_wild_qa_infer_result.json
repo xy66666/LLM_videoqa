@@ -1,0 +1,3371 @@
+[
+  {
+    "question_id": 0,
+    "video_name": "4k-Relaxation_11-manual",
+    "question": "What kind of water features are there",
+    "answer": "There is a creek and a pond",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "There are two water features in the image: a river and a lake."
+  },
+  {
+    "question_id": 4,
+    "video_name": "TreadmillTV_7-clip-15",
+    "question": "Are there any people?",
+    "answer": "Yes, there are two.",
+    "question_type": [
+      "Existence",
+      "Number"
+    ],
+    "pred": "Yes, there are people walking in the woods, as well as a person riding a snowmobile."
+  },
+  {
+    "question_id": 8,
+    "video_name": "TreadmillTV_12-manual",
+    "question": "Is there any wildlife?",
+    "answer": "Yes, there are grasses, shrubs, and small trees. ",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, there is a bird in the image, which is flying over the grassy field."
+  },
+  {
+    "question_id": 9,
+    "video_name": "TreadmillTV_12-manual",
+    "question": "What kind of environment is this?",
+    "answer": "Savannah.",
+    "question_type": [
+      "Location"
+    ],
+    "pred": "This is a rural environment, characterized by a field with trees and a dirt road. The presence of a dirt road suggests that the area might be less developed and more prone to dust and dirt."
+  },
+  {
+    "question_id": 11,
+    "video_name": "4k-Relaxation_4-clip-4",
+    "question": "What is the climate like?",
+    "answer": "It is rocky and sunny. It is an arid environment.",
+    "question_type": [
+      "Spatial relationship"
+    ],
+    "pred": "The climate in the image appears to be cold and wet, as the water is flowing through a rocky stream and the surrounding area is covered in mist."
+  },
+  {
+    "question_id": 12,
+    "video_name": "4k-Relaxation_4-clip-4",
+    "question": "What is the vegetation like?",
+    "answer": "It is sparse and low to the ground. It clings to the side of the canyon.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The vegetation in the image consists of trees and bushes, creating a lush and green environment."
+  },
+  {
+    "question_id": 14,
+    "video_name": "Virtual-Running-Videos_10-clip-25",
+    "question": "What is the distribution of plant life like?",
+    "answer": "It is very dense. Trees take up much of the forest while the other plants try to grow tall around them.",
+    "question_type": [
+      "Spatial relationship"
+    ],
+    "pred": "The plant life in the image consists of a dense forest with trees and bushes, creating a lush and green environment."
+  },
+  {
+    "question_id": 15,
+    "video_name": "Virtual-Running-Videos_10-clip-25",
+    "question": "What sort of environment is it based on the landscape and plant life?",
+    "answer": "Temperate mountain environment.",
+    "question_type": [
+      "Location"
+    ],
+    "pred": "Based on the landscape and plant life, it appears to be a forest or a wooded area, with a dense underbrush and trees surrounding the path."
+  },
+  {
+    "question_id": 16,
+    "video_name": "The-Flying-Dutchman_6-clip-7",
+    "question": "Are there people in the video?",
+    "answer": "Yes, there are a lot of people. ",
+    "question_type": [
+      "Entity",
+      "Existence",
+      "Number"
+    ],
+    "pred": "Yes, there are people in the video, walking on a trail in the mountains."
+  },
+  {
+    "question_id": 18,
+    "video_name": "The-Flying-Dutchman_6-clip-7",
+    "question": "Are there any structures nearby?",
+    "answer": "Yes, there are two on top of a ridge. ",
+    "question_type": [
+      "Entity",
+      "Location",
+      "Number"
+    ],
+    "pred": "Yes, there is a stone building near the mountain and the person walking."
+  },
+  {
+    "question_id": 21,
+    "video_name": "TK-Hinshaw_0-clip-0",
+    "question": "Is this dangerous to play?",
+    "answer": "Seeing how far you have to lean over to hit the ball, and taking into account how high you are off the ground and how heavy a horse is, I think this game would be dangerous to play",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "Yes, this activity is dangerous as it involves riding a motorcycle on a dirt road, which can be challenging and require skill to navigate. The uneven terrain and potential obstacles on the dirt road increase the risk of accidents and injuries. Additionally, the person riding the motorcycle is not wearing a helmet, which is a crucial safety measure to protect the head in case of an accident. It is important for the rider to wear a helmet and follow safety precautions while engaging in such activities to minimize the risk of injury."
+  },
+  {
+    "question_id": 26,
+    "video_name": "TK-Hinshaw_1-clip-1",
+    "question": "Are there any towns?",
+    "answer": "Yes, there is one along the ocean. ",
+    "question_type": [
+      "Existence",
+      "Location",
+      "Number"
+    ],
+    "pred": "Yes, there are towns visible in the image, with houses and buildings located near the ocean."
+  },
+  {
+    "question_id": 27,
+    "video_name": "TK-Hinshaw_1-clip-1",
+    "question": "Except for the town along the ocean, are there any other manmade features?",
+    "answer": "Yes, there are farmfields. ",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, there are some power lines visible in the image, which are manmade features."
+  },
+  {
+    "question_id": 30,
+    "video_name": "Primal-Earth-Sounds_11-clip-7",
+    "question": "Is the vegetation sparse or dense across all terrain?",
+    "answer": "It is dense.",
+    "question_type": [
+      "Existence",
+      "Number"
+    ],
+    "pred": "The vegetation is sparse across the terrain, with the trees and bushes appearing to be thin and not overly dense."
+  },
+  {
+    "question_id": 31,
+    "video_name": "Norwegian-Explorer_7-clip-0",
+    "question": "How many people are there?",
+    "answer": "Two",
+    "question_type": [
+      "Number"
+    ],
+    "pred": "There are two people in the image."
+  },
+  {
+    "question_id": 32,
+    "video_name": "Norwegian-Explorer_7-clip-0",
+    "question": "What are the people doing there?",
+    "answer": "They are skiing.",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "The people are skiing down the snow-covered slope, enjoying the winter sport and the beautiful surroundings."
+  },
+  {
+    "question_id": 33,
+    "video_name": "Norwegian-Explorer_7-clip-0",
+    "question": "What is the environment like?",
+    "answer": "It is a sunny day in a snowy canyon.",
+    "question_type": [
+      "Location"
+    ],
+    "pred": "The environment is a snowy mountain with a steep slope, providing a challenging skiing experience for the skier."
+  },
+  {
+    "question_id": 36,
+    "video_name": "Virtual-Running-Videos_1-clip-0",
+    "question": "Are there any features indicating human activity?",
+    "answer": "Yes.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, there is a path visible in the image, which suggests that people have been using it to access the area where the car is parked."
+  },
+  {
+    "question_id": 37,
+    "video_name": "Norwegian-Explorer_11-clip-54",
+    "question": "What kinds of bodies of water are there?",
+    "answer": "There are rivers and streams.",
+    "question_type": [
+      "Entity",
+      "Motion",
+      "Spatial relationship"
+    ],
+    "pred": "There are two bodies of water in the image: a river and a lake."
+  },
+  {
+    "question_id": 38,
+    "video_name": "Norwegian-Explorer_11-clip-54",
+    "question": "Where are the rivers located?",
+    "answer": "In valleys.",
+    "question_type": [
+      "Location"
+    ],
+    "pred": "The rivers are located in a mountainous area, with the water flowing through a rocky crevice or a narrow gorge."
+  },
+  {
+    "question_id": 41,
+    "video_name": "TreadmillTV_4-clip-5",
+    "question": "What are the people doing there?",
+    "answer": "Walking/hiking.",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "The people are riding bikes down a dirt road, enjoying the outdoors and the scenic surroundings."
+  },
+  {
+    "question_id": 42,
+    "video_name": "TreadmillTV_4-clip-5",
+    "question": "Are there trails?",
+    "answer": "Yes",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, there are trails in the forest, which are likely used by hikers and other outdoor enthusiasts to explore the area."
+  },
+  {
+    "question_id": 43,
+    "video_name": "TreadmillTV_4-clip-5",
+    "question": "Is there an area where more than 5 people are there?",
+    "answer": "Yes.",
+    "question_type": [
+      "Number"
+    ],
+    "pred": "Yes, there is a group of people walking on a dirt road, and there are also a couple of people walking on a trail in the woods."
+  },
+  {
+    "question_id": 44,
+    "video_name": "The-Flying-Dutchman_5-clip-30",
+    "question": "What kinds of natural features are there?",
+    "answer": "Forest, rivers, hills/mountains. ",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The natural features in the image include a forest, a creek, and a tree-covered hillside."
+  },
+  {
+    "question_id": 45,
+    "video_name": "The-Flying-Dutchman_5-clip-30",
+    "question": "What kind of forest is it?",
+    "answer": "Temperate rainforest.",
+    "question_type": [
+      "Entity"
+    ],
+    "pred": "The forest in the image is a dense, green forest with many trees and bushes."
+  },
+  {
+    "question_id": 46,
+    "video_name": "The-Flying-Dutchman_5-clip-30",
+    "question": "Are there any trails, structures, or other unnatural features?",
+    "answer": "Yes, there is a trail. ",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, there is a trail in the forest, and the trees are lined up along the path."
+  },
+  {
+    "question_id": 47,
+    "video_name": "Virtual-Running-Videos_0-manual",
+    "question": "Are there people in the area?",
+    "answer": "Yes.",
+    "question_type": [
+      "Entity",
+      "Existence"
+    ],
+    "pred": "Yes, there are people in the area, including a man riding a motorcycle and a person on a bicycle."
+  },
+  {
+    "question_id": 51,
+    "video_name": "Nick-Gaillard_2-clip-2",
+    "question": "Are these skiiers at an advanced/expert level of skiing?",
+    "answer": "Judging by the tricks they are doing which appear to be complicated, I would assume they are rather experienced skiiers.",
+    "question_type": [
+      "Motion",
+      "Reasoning"
+    ],
+    "pred": "Yes, the skiers in the image are at an advanced/expert level of skiing, as they are skiing down a steep, snowy slope and performing tricks."
+  },
+  {
+    "question_id": 54,
+    "video_name": "Nick-Gaillard_9-clip-0",
+    "question": "Is there any signs that human frequent the area?",
+    "answer": "Yes, there is a hiking trail. ",
+    "question_type": [
+      "Existence",
+      "Location"
+    ],
+    "pred": "Yes, there is a sign in the image, which suggests that humans frequent the area and might be responsible for the presence of the watercraft on the river."
+  },
+  {
+    "question_id": 56,
+    "video_name": "Nick-Gaillard_5-clip-0",
+    "question": "What are the people doing there?",
+    "answer": "Tightrope walking, mountain climbing, dancing, skiing, and driving. ",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "The people are skiing down a snow-covered mountain, enjoying the winter sport and the beautiful scenery."
+  },
+  {
+    "question_id": 58,
+    "video_name": "Primal-Earth-Sounds_3-clip-48",
+    "question": "What sort of features are present here?",
+    "answer": "Islands, mountains, forest, and an ocean. ",
+    "question_type": [
+      "Entity",
+      "Existence"
+    ],
+    "pred": "The image features a beautiful landscape with a river, a mountain, and a lush green forest. The river is flowing through the area, and the mountain can be seen in the background."
+  },
+  {
+    "question_id": 62,
+    "video_name": "The-Flying-Dutchman_4-clip-9",
+    "question": "Is there any human activity here?",
+    "answer": "Yes, there is a hiking trail. ",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, there is a person walking through the forest, which is visible in the image."
+  },
+  {
+    "question_id": 63,
+    "video_name": "Primal-Earth-Sounds_5-clip-20",
+    "question": "What types of natural features are present?",
+    "answer": "Forest, oceans, islands, mountains, lakes, and rivers. ",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The natural features present in the image include a river, a forest, and a mountain."
+  },
+  {
+    "question_id": 64,
+    "video_name": "Primal-Earth-Sounds_5-clip-20",
+    "question": "Are there different climates/environments?",
+    "answer": "Yes. There is rainforest, tropical, tundra, and temperate. ",
+    "question_type": [
+      "Location"
+    ],
+    "pred": "Yes, there are different climates and environments in the image. The river is surrounded by a forest, which suggests a more temperate or tropical climate. The presence of a mountain in the background indicates that the area might be part of a mountain range, which could have a colder or more alpine climate."
+  },
+  {
+    "question_id": 65,
+    "video_name": "Primal-Earth-Sounds_5-clip-20",
+    "question": "Are there any human features?",
+    "answer": "Yes",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, there is a person in the image who is standing on the shore and watching the boat go by."
+  },
+  {
+    "question_id": 67,
+    "video_name": "Virtual-Running-Videos_6-manual",
+    "question": "What bodies of water are present?",
+    "answer": "A river.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "There is a river and a lake present in the image."
+  },
+  {
+    "question_id": 68,
+    "video_name": "Virtual-Running-Videos_6-manual",
+    "question": "Are there any boats and/or other types of things on the water?",
+    "answer": "No.",
+    "question_type": [
+      "Entity",
+      "Existence"
+    ],
+    "pred": "Yes, there are boats on the water, and the road is also near a river."
+  },
+  {
+    "question_id": 69,
+    "video_name": "Virtual-Running-Videos_6-manual",
+    "question": "What type of environment is it located in?",
+    "answer": "Savannah/grassland.",
+    "question_type": [
+      "Location"
+    ],
+    "pred": "The environment in the image is a rural area with a dirt road, a forest, and a mountainous landscape."
+  },
+  {
+    "question_id": 70,
+    "video_name": "Virtual-Running-Videos_6-manual",
+    "question": "Except for the grassland and the river, what other types of features are nearby?",
+    "answer": "Hills and a dirt road.",
+    "question_type": [
+      "Existence",
+      "Location"
+    ],
+    "pred": "There are trees nearby, which can be seen in the background of the image."
+  },
+  {
+    "question_id": 71,
+    "video_name": "Virtual-Running-Videos_5-clip-20",
+    "question": "What sorts of vegetation are present?",
+    "answer": "Grasses, trees, shrubs. ",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The vegetation present in the image includes grass, bushes, and trees."
+  },
+  {
+    "question_id": 72,
+    "video_name": "Virtual-Running-Videos_5-clip-20",
+    "question": "What is the most prominent type of vegetation?",
+    "answer": "Grasses.",
+    "question_type": [
+      "Existence",
+      "Location"
+    ],
+    "pred": "The most prominent type of vegetation in the image is grass."
+  },
+  {
+    "question_id": 73,
+    "video_name": "Virtual-Running-Videos_5-clip-20",
+    "question": "What seems to be the environment?",
+    "answer": "Savannah/grassland environment.",
+    "question_type": [
+      "Existence",
+      "Location"
+    ],
+    "pred": "The environment appears to be a mountainous region with a lush green hillside, which is likely a part of a forest."
+  },
+  {
+    "question_id": 75,
+    "video_name": "TK-Hinshaw_10-clip-0",
+    "question": "What sort of environment is this?",
+    "answer": "A rocky, dry region. ",
+    "question_type": [
+      "Location"
+    ],
+    "pred": "This is a mountainous environment, with a person flying a kite in the middle of the scene."
+  },
+  {
+    "question_id": 76,
+    "video_name": "Nick-Gaillard_12-clip-1",
+    "question": "What kind of roads are there?",
+    "answer": "A two-lane road",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "There are dirt roads in the image, which are likely located in a mountainous region."
+  },
+  {
+    "question_id": 78,
+    "video_name": "TreadmillTV_5-clip-7",
+    "question": "Where is the location of this video?",
+    "answer": "Judging by the color of the rocks and levels of terrain, I am lead to believe this video takes place on the western side of the United States.",
+    "question_type": [
+      "Location",
+      "Reasoning"
+    ],
+    "pred": "The location of this video is a dam, specifically Hoover Dam, which is situated in the desert."
+  },
+  {
+    "question_id": 79,
+    "video_name": "The-Flying-Dutchman_9-clip-5",
+    "question": "What type of location is shown in the video?",
+    "answer": "Judging by all the people shown on the walkway, this location appears to be a spot for tourists to visit to view the waterfall and river below, along with other grand views.",
+    "question_type": [
+      "Location"
+    ],
+    "pred": "The video shows a river gorge, which is a narrow and steep-sided valley formed by a river."
+  },
+  {
+    "question_id": 81,
+    "video_name": "USA-Military-Channel_7-clip-0",
+    "question": "Is there a body of water?",
+    "answer": "Yes, there is a body of water.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, there is a body of water in the image, which is the ocean."
+  },
+  {
+    "question_id": 82,
+    "video_name": "USA-Military-Channel_7-clip-0",
+    "question": "Are there vehicles in the water?",
+    "answer": "Yes, there are vehicles in the water.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, there are vehicles in the water, including a boat and a truck."
+  },
+  {
+    "question_id": 86,
+    "video_name": "AiirSource-Military_3-clip-0",
+    "question": "Is there water?",
+    "answer": "Yes, there is a body of water",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, there is water in the image, as the fighter jet is flying over a body of water."
+  },
+  {
+    "question_id": 89,
+    "video_name": "Military-Archive_11-clip-0",
+    "question": "What type of equipment is it?",
+    "answer": "Artillery emplacement",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The equipment in the image is a military vehicle, specifically a tank."
+  },
+  {
+    "question_id": 90,
+    "video_name": "Military-Archive_11-clip-0",
+    "question": "How many people are there to operate it?",
+    "answer": "six",
+    "question_type": [
+      "Number"
+    ],
+    "pred": "There are two people operating the tank in the image."
+  },
+  {
+    "question_id": 91,
+    "video_name": "Military-Archive_11-clip-0",
+    "question": "How long did it take to fire the first shot?",
+    "answer": "thirty-two seconds",
+    "question_type": [
+      "Time"
+    ],
+    "pred": "It took the soldiers a few seconds to fire the first shot."
+  },
+  {
+    "question_id": 96,
+    "video_name": "Gung-Ho-Vids_3-clip-0",
+    "question": "How many sets of wheels are on it?",
+    "answer": "three",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The helicopter has two sets of wheels, which are located underneath the aircraft."
+  },
+  {
+    "question_id": 99,
+    "video_name": "Military-Archive_7-clip-4",
+    "question": "What are the planes doing?",
+    "answer": "A demonstration of capabilities",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The planes are flying in formation, with one plane flying in front of the other."
+  },
+  {
+    "question_id": 101,
+    "video_name": "Military-Archive_7-clip-4",
+    "question": "Where were the planes flying over?",
+    "answer": "Coastal City",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The planes were flying over a city."
+  },
+  {
+    "question_id": 104,
+    "video_name": "MilitaryNotes_0-clip-0",
+    "question": "What are the soldiers training for?",
+    "answer": "The soldiers are training for air assault missions.",
+    "question_type": [
+      "Entity"
+    ],
+    "pred": "The soldiers are training for combat, as they are wearing camouflage uniforms and practicing with weapons."
+  },
+  {
+    "question_id": 106,
+    "video_name": "AiirSource-Military_8-clip-1",
+    "question": "Is the helicopter moving after loading?",
+    "answer": "Yes",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "Yes, the helicopter is moving after loading the large piece of equipment."
+  },
+  {
+    "question_id": 109,
+    "video_name": "Military-Archive_1-clip-3",
+    "question": "What type of land is it?",
+    "answer": "A valley in some hills covered with mud",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The land in the image is a desert."
+  },
+  {
+    "question_id": 111,
+    "video_name": "Army-military-2018_6-clip-1",
+    "question": "What type of aircraft is it?",
+    "answer": "Helicopter",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The aircraft in the image is a military helicopter."
+  },
+  {
+    "question_id": 112,
+    "video_name": "Army-military-2018_6-clip-1",
+    "question": "What kind of weaponry does it have?",
+    "answer": "mounted machineguns and missiles",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The helicopter has a mounted gun, which is likely a machine gun or a similar type of weaponry."
+  },
+  {
+    "question_id": 113,
+    "video_name": "WarLeaks-Military-Blog_4-clip-1",
+    "question": "What type of equipment is it?",
+    "answer": "Rocket artillery",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The equipment in the image is a military tank."
+  },
+  {
+    "question_id": 115,
+    "video_name": "WarLeaks-Military-Blog_4-clip-1",
+    "question": "How does the rocket artillery travel?",
+    "answer": "Through use of tracks like a tank",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The rocket artillery travels by being fired from a cannon, which propels the rocket forward with high speed and accuracy."
+  },
+  {
+    "question_id": 122,
+    "video_name": "WarLeaks-Military-Blog_7-clip-1",
+    "question": "What type of access roads do they have?",
+    "answer": "Gravel two track",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The soldiers have dirt access roads, which are likely used for off-road vehicle movement and maneuvering in the field."
+  },
+  {
+    "question_id": 123,
+    "video_name": "Sandboxx_10-clip-1",
+    "question": "What are they doing?",
+    "answer": "Training to join the military",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The two people are hiking up a hill, carrying a backpack and walking through the woods."
+  },
+  {
+    "question_id": 124,
+    "video_name": "Sandboxx_10-clip-1",
+    "question": "What branch are they training to join?",
+    "answer": "Marines",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "They are training to join the Air Force."
+  },
+  {
+    "question_id": 128,
+    "video_name": "Sandboxx_2-clip-2",
+    "question": "How many engines did the fighters have?",
+    "answer": "two",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The fighters had four engines."
+  },
+  {
+    "question_id": 131,
+    "video_name": "Army-military-2018_10-clip-0",
+    "question": "How many people are there?",
+    "answer": "At least 12",
+    "question_type": [
+      "Number"
+    ],
+    "pred": "There are two people in the image."
+  },
+  {
+    "question_id": 134,
+    "video_name": "Army-military-2018_0-clip-8",
+    "question": "What types of small arms?",
+    "answer": "M4's",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The small arms in the image are AK-47s, which are a type of automatic rifle."
+  },
+  {
+    "question_id": 137,
+    "video_name": "MilitaryNotes_6-clip-1",
+    "question": "Where are they from?",
+    "answer": "USA",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "They are from the United States."
+  },
+  {
+    "question_id": 139,
+    "video_name": "Sandboxx_5-manual",
+    "question": "What are they doing?",
+    "answer": "Training",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The people are standing in a parking lot, watching something or someone."
+  },
+  {
+    "question_id": 140,
+    "video_name": "Sandboxx_5-manual",
+    "question": "What are they training to join?",
+    "answer": "Air force",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The group of people is training to join the military, specifically the army."
+  },
+  {
+    "question_id": 143,
+    "video_name": "WarLeaks-Military-Blog_3-manual",
+    "question": "How many planes are there?",
+    "answer": "thirty six",
+    "question_type": [
+      "Existence",
+      "Number"
+    ],
+    "pred": "There are two planes in the image."
+  },
+  {
+    "question_id": 145,
+    "video_name": "USA-Military-Channel_1-clip-1",
+    "question": "where is this place?",
+    "answer": "Tulsa oklahoma",
+    "question_type": [
+      "Location"
+    ],
+    "pred": "This place is a parking lot, where the helicopter is flying over."
+  },
+  {
+    "question_id": 146,
+    "video_name": "USA-Military-Channel_1-clip-1",
+    "question": "What's going on?",
+    "answer": "Fire suppression system is going off",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "In the image, there is a large airplane flying through the sky, leaving a trail of smoke behind it. The airplane is positioned in the middle of the scene, and the smoke is spreading outwards from its tail. The scene also features a few people scattered around the area, possibly observing the airplane or attending to their own activities. The presence of these people suggests that the location might be a popular spot for watching airplanes or an airport vicinity."
+  },
+  {
+    "question_id": 150,
+    "video_name": "MilitaryNotes_1-clip-0",
+    "question": "What are they doing?",
+    "answer": "Sniper training",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The soldiers are firing a weapon, likely a machine gun, while standing in a field."
+  },
+  {
+    "question_id": 151,
+    "video_name": "MilitaryNotes_1-clip-0",
+    "question": "What are the snipers wearing?",
+    "answer": "Ghillie suits",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The snipers are wearing camouflage gear, which helps them blend in with their surroundings."
+  },
+  {
+    "question_id": 152,
+    "video_name": "MilitaryNotes_1-clip-0",
+    "question": "What weapons were they using?",
+    "answer": "M16",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The soldiers were using guns, specifically M16 rifles, as their weapons."
+  },
+  {
+    "question_id": 153,
+    "video_name": "AiirSource-Military_2-clip-0",
+    "question": "What are they receiving?",
+    "answer": "It appears that they are receiving a smaller vehicle on board their amphibious vessel. That vehicle could have completed a mission or might be carrying supplies for replenishment.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The people in the image are receiving a message or instruction from someone, possibly a teacher or a coach, who is pointing at a screen."
+  },
+  {
+    "question_id": 157,
+    "video_name": "MilitaryNotes_5-clip-0",
+    "question": "What type of uniform is worn in the video?",
+    "answer": "The United Stated Marine Corps uniform is worn in the video.",
+    "question_type": [
+      "Entity"
+    ],
+    "pred": "The uniform worn in the video is a military uniform, specifically a camouflage uniform."
+  },
+  {
+    "question_id": 158,
+    "video_name": "Military-Archive_8-clip-0",
+    "question": "How many helicopters are in this video?",
+    "answer": "There are two helicopters in the video.",
+    "question_type": [
+      "Number"
+    ],
+    "pred": "There are two helicopters in this video."
+  },
+  {
+    "question_id": 160,
+    "video_name": "AiirSource-Military_4-manual",
+    "question": "Where was this video taken?",
+    "answer": "This video was taken at the United States Marine Corps Recruit Training Depot in San Diego, California.",
+    "question_type": [
+      "Location",
+      "Reasoning"
+    ],
+    "pred": "The video was taken in a room, likely a classroom or an indoor space suitable for conducting military training."
+  },
+  {
+    "question_id": 162,
+    "video_name": "Military-Archive_8-clip-0",
+    "question": "Are there helicopters in the video?",
+    "answer": "Yes there are helicopters in the video.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "No, there are no helicopters in the video. The image features a military vehicle, specifically a tank, driving on a road."
+  },
+  {
+    "question_id": 163,
+    "video_name": "WarLeaks-Military-Blog_10-clip-3",
+    "question": "What type of helicopter is in the video?",
+    "answer": "A Russian MI-24 helicopter.",
+    "question_type": [
+      "Entity"
+    ],
+    "pred": "The helicopter in the video is a military helicopter."
+  },
+  {
+    "question_id": 169,
+    "video_name": "USA-Military-Channel_9-manual",
+    "question": "Are there Army medics in the video?",
+    "answer": "Yes there are Army medics in the video.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, there are Army medics in the video, and they are tending to a wounded soldier."
+  },
+  {
+    "question_id": 171,
+    "video_name": "Gung-Ho-Vids_6-clip-0",
+    "question": "What type of ship is in the video?",
+    "answer": "A Nimitz-class, nuclear-powered, aircraft carrier is in the video.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The video features a U.S. Navy ship, specifically an aircraft carrier."
+  },
+  {
+    "question_id": 172,
+    "video_name": "Gung-Ho-Vids_6-clip-0",
+    "question": "What is the landscape like in the video?",
+    "answer": "The landscape consists of the ocean in the video.",
+    "question_type": [
+      "Location"
+    ],
+    "pred": "The landscape in the video features a runway or tarmac, with the aircraft parked on it."
+  },
+  {
+    "question_id": 177,
+    "video_name": "WarLeaks-Military-Blog_4-clip-1",
+    "question": "Are vehicles used to transport artillery?",
+    "answer": "Yes vehicles are used to transport artillery.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, vehicles are often used to transport artillery, as they provide a stable and secure platform for the heavy and large artillery pieces. In the image, the artillery piece is being transported by a truck, which is a common method of moving artillery and other heavy military equipment."
+  },
+  {
+    "question_id": 179,
+    "video_name": "Military-Archive_1-clip-3",
+    "question": "How many people can be seen inside the vehicle?",
+    "answer": "One person, the driver, can be seen inside the vehicle.",
+    "question_type": [
+      "Number"
+    ],
+    "pred": "There are two people inside the vehicle, sitting in the back."
+  },
+  {
+    "question_id": 180,
+    "video_name": "Military-Archive_1-clip-3",
+    "question": "How many uniformed men are outside of the vehicle?",
+    "answer": "Two uniformed men are standing outside of the vehicle.",
+    "question_type": [
+      "Number"
+    ],
+    "pred": "There are two uniformed men outside of the vehicle."
+  },
+  {
+    "question_id": 181,
+    "video_name": "Army-military-2018_1-clip-3",
+    "question": "How many men are shooting a gun?",
+    "answer": "Two men are shooting guns in the video.",
+    "question_type": [
+      "Number"
+    ],
+    "pred": "There are two men shooting a gun in the image."
+  },
+  {
+    "question_id": 185,
+    "video_name": "Army-military-2018_6-clip-1",
+    "question": "What type of landscape is the helicopter flying over?",
+    "answer": "The helicopter is flying over fields and mountains.",
+    "question_type": [
+      "Location"
+    ],
+    "pred": "The helicopter is flying over a desert landscape."
+  },
+  {
+    "question_id": 186,
+    "video_name": "Military-Archive_1-clip-3",
+    "question": "How many vehicles are in the video?",
+    "answer": "One heavily armored vehicle is in the video.",
+    "question_type": [
+      "Number"
+    ],
+    "pred": "There are two vehicles in the video: a large truck and a jeep."
+  },
+  {
+    "question_id": 189,
+    "video_name": "Army-military-2018_1-clip-3",
+    "question": "How is the machine gun loaded?",
+    "answer": "The machine gun is hand fed a bandolier.",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "The machine gun is loaded with a belt of ammunition, which is typically fed into the gun by a mechanism called a belt feeder or ammunition feeder."
+  },
+  {
+    "question_id": 193,
+    "video_name": "Military-Archive_11-clip-0",
+    "question": "What type of ammunition is being used in the video?",
+    "answer": "The type of ammunition being used in the video is 155mm artillery projectiles.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The video shows the soldiers using a rocket launcher, which is a type of artillery weapon."
+  },
+  {
+    "question_id": 196,
+    "video_name": "Army-military-2018_3-clip-6",
+    "question": "How many paratroopers are in the video?",
+    "answer": "There are three paratroopers in the video.",
+    "question_type": [
+      "Number"
+    ],
+    "pred": "There are two paratroopers in the video."
+  },
+  {
+    "question_id": 197,
+    "video_name": "AiirSource-Military_0-clip-2",
+    "question": "What type of vehicle is actively being moved in the video?",
+    "answer": "The type of vehicle actively being moved in the video is a M2 Bradley.",
+    "question_type": [
+      "Entity"
+    ],
+    "pred": "A large military tank is actively being moved in the video."
+  },
+  {
+    "question_id": 199,
+    "video_name": "Sandboxx_2-clip-2",
+    "question": "Are there anti-aircraft weapons in this video?",
+    "answer": "Yes there are anti-aircraft weapons in this video.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, there are anti-aircraft weapons in the video, as the fighter jet is flying near them."
+  },
+  {
+    "question_id": 201,
+    "video_name": "WarLeaks-Military-Blog_7-clip-1",
+    "question": "Are two men walking with weapons slung over their shoulders?",
+    "answer": "Yes two men are walking with weapons slung over their shoulders.",
+    "question_type": [
+      "Existence",
+      "Motion"
+    ],
+    "pred": "Yes, two men are walking with weapons slung over their shoulders in the image."
+  },
+  {
+    "question_id": 208,
+    "video_name": "MilitaryNotes_9-manual",
+    "question": "Are there flags in the video?",
+    "answer": "Yes there are flags in the video.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, there are flags in the video, and they are being held by the soldiers."
+  },
+  {
+    "question_id": 209,
+    "video_name": "MilitaryNotes_9-manual",
+    "question": "Is there Iraq's national flag in the video?",
+    "answer": "Yes there is Iraq's national flag in the video.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, there is an Iraq flag in the video, and the people are saluting it."
+  },
+  {
+    "question_id": 213,
+    "video_name": "Military-Archive_5-clip-1",
+    "question": "Is there an M2 .50 caliber in the video?",
+    "answer": "Yes, there is a M2 .50 caliber in the video.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, there is an M2 .50 caliber in the video, and it is being fired from a boat."
+  },
+  {
+    "question_id": 215,
+    "video_name": "Army-military-2018_7-clip-2",
+    "question": "Are the men in the video apart of the United states military?",
+    "answer": "Yes, the men in the video are apart of the United states military.",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "Yes, the men in the video are part of the United States military, specifically the army."
+  },
+  {
+    "question_id": 216,
+    "video_name": "Gung-Ho-Vids_4-clip-0",
+    "question": "Is there a flying boom in the video?",
+    "answer": "Yes, there is a flying boom in the video.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, there is a flying boom in the video, which is a part of the fighter jet's equipment."
+  },
+  {
+    "question_id": 217,
+    "video_name": "Military-Archive_6-clip-0",
+    "question": "Is there a B-2 Spirit Stealth Bomber in the video?",
+    "answer": "Yes, there is a B-2 Spirit Stealth Bomber in the video.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, there is a B-2 Spirit Stealth Bomber in the video, and it is on display at an air show."
+  },
+  {
+    "question_id": 219,
+    "video_name": "Military-Archive_6-clip-0",
+    "question": "How many pilots are in the video?",
+    "answer": "Two pilots are in the video.",
+    "question_type": [
+      "Number"
+    ],
+    "pred": "There are two pilots in the video."
+  },
+  {
+    "question_id": 220,
+    "video_name": "Military-Archive_6-clip-0",
+    "question": "What are the pilots in the video wearing?",
+    "answer": "The pilots in the video are wearing flight suits.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The pilots in the video are wearing military uniforms."
+  },
+  {
+    "question_id": 221,
+    "video_name": "Gung-Ho-Vids_10-clip-0",
+    "question": "Is there a fighter jet about to receive servicing?",
+    "answer": "Yes, there is a fighter jet about to receive servicing.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, there is a fighter jet on the runway that is about to receive servicing."
+  },
+  {
+    "question_id": 223,
+    "video_name": "Gung-Ho-Vids_10-clip-0",
+    "question": "What is the tail code of the fighter jet?",
+    "answer": "The tail code of the fighter jet is AF 81 040 ZZ.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The tail code of the fighter jet is \"AZ\" or \"AZR.\""
+  },
+  {
+    "question_id": 225,
+    "video_name": "WarLeaks-Military-Blog_2-clip-3",
+    "question": "Is a M320 grenade launcher module used in the video?",
+    "answer": "Yes, a M320 grenade launcher module is used in the video.",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "Yes, a M320 grenade launcher module is used in the video, as the soldier is firing a grenade from it."
+  },
+  {
+    "question_id": 226,
+    "video_name": "Chad-Zuber_3-clip-1",
+    "question": "Is there a body of water?",
+    "answer": "Yes there is a river.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, there is a body of water in the image, which is the river where the person is standing."
+  },
+  {
+    "question_id": 227,
+    "video_name": "Chad-Zuber_3-clip-1",
+    "question": "Is there a source of food?",
+    "answer": "There are berries and fish.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, there is a source of food in the image. A fish is visible in the water, providing a food source for the birds."
+  },
+  {
+    "question_id": 230,
+    "video_name": "King-Kong-Amazon_1-clip-9",
+    "question": "Does he have a fire?",
+    "answer": "Yes, he has a fire.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, the man is standing next to a fire in the forest."
+  },
+  {
+    "question_id": 231,
+    "video_name": "King-Kong-Amazon_1-clip-9",
+    "question": "What type of environment is he in?",
+    "answer": "He is in a tropical environment.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The man is in a dense jungle environment, surrounded by trees and vegetation."
+  },
+  {
+    "question_id": 232,
+    "video_name": "Chad-Zuber_6-clip-6",
+    "question": "Is there a body of water?",
+    "answer": "Yes there is a body of water.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, there is a body of water in the image, which is the ocean."
+  },
+  {
+    "question_id": 233,
+    "video_name": "Chad-Zuber_6-clip-6",
+    "question": "Are there animals that fly in the body of water?",
+    "answer": "Yes, there are birds in the body of water.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, there are animals that fly in the body of water. In this case, the image shows a bird flying in the water."
+  },
+  {
+    "question_id": 234,
+    "video_name": "Chad-Zuber_6-clip-6",
+    "question": "Are there any dolphins under water?",
+    "answer": "Yes there is a dolphin.",
+    "question_type": [
+      "Entity",
+      "Existence"
+    ],
+    "pred": "Yes, there are dolphins swimming under water in the image."
+  },
+  {
+    "question_id": 236,
+    "video_name": "BC-Bushcraft_8-clip-6",
+    "question": "Is the man gathering wood?",
+    "answer": "Yes the man is gathering wood.",
+    "question_type": [
+      "Existence",
+      "Motion"
+    ],
+    "pred": "Yes, the man is gathering wood in the forest, possibly for firewood or other purposes."
+  },
+  {
+    "question_id": 237,
+    "video_name": "BC-Bushcraft_8-clip-6",
+    "question": "Is the man creating sparks?",
+    "answer": "Yes he is creating sparks",
+    "question_type": [
+      "Existence",
+      "Motion"
+    ],
+    "pred": "Yes, the man is creating sparks while cutting down the tree with the axe."
+  },
+  {
+    "question_id": 240,
+    "video_name": "Chad-Zuber_3-clip-1",
+    "question": "Are there fish in the water?",
+    "answer": "Yes",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, there are fish in the water, and they are swimming around the person who is standing in the stream."
+  },
+  {
+    "question_id": 241,
+    "video_name": "King-Kong-Amazon_1-clip-9",
+    "question": "Where is the house built at?",
+    "answer": "Jungle",
+    "question_type": [
+      "Existence",
+      "Reasoning"
+    ],
+    "pred": "The house is built at the base of a tree, surrounded by a dense forest."
+  },
+  {
+    "question_id": 243,
+    "video_name": "Chad-Zuber_6-clip-6",
+    "question": "How many different animals are detected?",
+    "answer": "three",
+    "question_type": [
+      "Existence",
+      "Number",
+      "Reasoning"
+    ],
+    "pred": "There are two different animals detected in the image: a person and a dolphin."
+  },
+  {
+    "question_id": 244,
+    "video_name": "Chad-Zuber_6-clip-6",
+    "question": "What type of animals are there?",
+    "answer": "dolphins, human, seagulls",
+    "question_type": [
+      "Existence",
+      "Reasoning"
+    ],
+    "pred": "There are two dolphins in the image."
+  },
+  {
+    "question_id": 248,
+    "video_name": "Joe-Robinet_9-clip-2",
+    "question": "What kind of structure is used for sleeping?",
+    "answer": "A tent",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "A tent is used as a shelter for sleeping in the image."
+  },
+  {
+    "question_id": 250,
+    "video_name": "BC-Bushcraft_4-clip-4",
+    "question": "What is the man using as tools?",
+    "answer": "A saw and handaxe",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The man is using a pair of binoculars as a tool to observe the forest."
+  },
+  {
+    "question_id": 251,
+    "video_name": "Survival-Skills-Primitive_10-clip-4",
+    "question": "Where is this?",
+    "answer": "On a beach near the ocean",
+    "question_type": [
+      "Existence",
+      "Reasoning"
+    ],
+    "pred": "This is a beach scene, with the two people and the rocky area being located on the beach."
+  },
+  {
+    "question_id": 252,
+    "video_name": "Survival-Skills-Primitive_10-clip-4",
+    "question": "What type of weather is there?",
+    "answer": "Partly cloudy",
+    "question_type": [
+      "Existence",
+      "Reasoning"
+    ],
+    "pred": "The weather appears to be sunny, which is ideal for outdoor activities like beachcombing and exploring the rocky shoreline."
+  },
+  {
+    "question_id": 254,
+    "video_name": "King-Kong-Amazon_6-clip-3",
+    "question": "What is he using to dig into the ground?",
+    "answer": "Stick",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "He is using a stick to dig into the ground."
+  },
+  {
+    "question_id": 255,
+    "video_name": "King-Kong-Amazon_6-clip-3",
+    "question": "Where is the man getting the seeds from?",
+    "answer": "A bowl",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The man is getting the seeds from a tree in the forest."
+  },
+  {
+    "question_id": 256,
+    "video_name": "Bertram-Craft_7-clip-6",
+    "question": "What type of shelter is there?",
+    "answer": "A tent supported by sticks",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "There is a tent shelter in the image, which is providing shade for the person cooking the food."
+  },
+  {
+    "question_id": 258,
+    "video_name": "King-Kong-Amazon_12-clip-2",
+    "question": "What are the walls made out of?",
+    "answer": "Bamboo sticks strung together",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The walls of the structure are made out of tree trunks or branches."
+  },
+  {
+    "question_id": 259,
+    "video_name": "King-Kong-Amazon_12-clip-2",
+    "question": "How is the foundation supported?",
+    "answer": "Thick logs connected through bamboo sticks",
+    "question_type": [
+      "Existence",
+      "Reasoning"
+    ],
+    "pred": "The foundation of the tree house is supported by wooden logs, which provide a stable and secure base for the structure."
+  },
+  {
+    "question_id": 260,
+    "video_name": "Survival-Skills-Primitive_4-clip-54",
+    "question": "What are they doing?",
+    "answer": "Catching crabs",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The two people are standing on the beach, observing the sand and the ocean."
+  },
+  {
+    "question_id": 263,
+    "video_name": "Chad-Zuber_0-clip-1",
+    "question": "Is there an oven with fire in it?",
+    "answer": "Yes there is.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, there is a fire in an oven, which is likely used for cooking or heating purposes."
+  },
+  {
+    "question_id": 264,
+    "video_name": "Chad-Zuber_0-clip-1",
+    "question": "Are they heating something in the Oven?",
+    "answer": "Yes he was",
+    "question_type": [
+      "Existence",
+      "Motion"
+    ],
+    "pred": "Yes, they are heating something in the oven, likely food."
+  },
+  {
+    "question_id": 267,
+    "video_name": "Joe-Robinet_11-clip-2",
+    "question": "Is the man creating spark to set the kindling on fire?",
+    "answer": "Yes, the man is trying to set the kindling on fire.",
+    "question_type": [
+      "Existence",
+      "Motion",
+      "Reasoning"
+    ],
+    "pred": "Yes, the man is creating a spark to set the kindling on fire, which will eventually lead to the fire spreading through the forest."
+  },
+  {
+    "question_id": 268,
+    "video_name": "Chad-Zuber_8-clip-3",
+    "question": "What is the man cooking and eating?",
+    "answer": "The man is cooking and eating the fish.",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "The man is cooking and eating a hot dog."
+  },
+  {
+    "question_id": 269,
+    "video_name": "Chad-Zuber_8-clip-3",
+    "question": "What is the man gethering?",
+    "answer": "The man is gathering berries and seeds that can be consumed.",
+    "question_type": [
+      "Existence",
+      "Motion"
+    ],
+    "pred": "The man is gathering firewood, specifically pine branches, to use as fuel for a fire."
+  },
+  {
+    "question_id": 271,
+    "video_name": "Survival-Skills-Primitive_1-clip-7",
+    "question": "What are they using to cook the food",
+    "answer": "Ceramic bowl",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "They are using a pot or a pan to cook the food."
+  },
+  {
+    "question_id": 274,
+    "video_name": "Chad-Zuber_12-clip-12",
+    "question": "What was the roof made out of?",
+    "answer": "Straw tied together",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The roof of the hut was made out of leaves."
+  },
+  {
+    "question_id": 276,
+    "video_name": "Chad-Zuber_12-clip-12",
+    "question": "How many windows were there?",
+    "answer": "One small one",
+    "question_type": [
+      "Existence",
+      "Number"
+    ],
+    "pred": "There were two windows in the hut."
+  },
+  {
+    "question_id": 277,
+    "video_name": "Survival-Instinct_3-clip-7",
+    "question": "What is he doing?",
+    "answer": "Surviving in the jungle",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The man is walking through the dense forest, surrounded by the dense foliage and trees."
+  },
+  {
+    "question_id": 278,
+    "video_name": "Survival-Instinct_3-clip-7",
+    "question": "How is he surviving?",
+    "answer": "building fire for warmth and searching for food",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The man is surviving by climbing up the tree and finding shelter among the leaves."
+  },
+  {
+    "question_id": 280,
+    "video_name": "Survival-Skills-Primitive_0-clip-0",
+    "question": "How does he clean up his cast?",
+    "answer": "sanding and water",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The man is using a brush to clean up the cast, which helps to remove any dirt, dust, or debris that may have accumulated on its surface."
+  },
+  {
+    "question_id": 282,
+    "video_name": "BC-Bushcraft_5-clip-10",
+    "question": "What is the man using for his task?",
+    "answer": "A hatchet",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The man is using a pair of binoculars to observe the forest."
+  },
+  {
+    "question_id": 283,
+    "video_name": "Bertram-Craft_3-clip-8",
+    "question": "What kind of shelter is there?",
+    "answer": "A tent",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "There is a shelter made of branches and leaves, which provides some protection from the elements for the person standing in the woods."
+  },
+  {
+    "question_id": 285,
+    "video_name": "Primitive-Technology_1-clip-8",
+    "question": "What type of terrain is this?",
+    "answer": "Jungle",
+    "question_type": [
+      "Existence",
+      "Reasoning"
+    ],
+    "pred": "This is a rocky terrain, with the man standing on a rocky surface."
+  },
+  {
+    "question_id": 288,
+    "video_name": "Joe-Robinet_10-clip-8",
+    "question": "What was the color of the perch?",
+    "answer": "black on top faded to white on bottom",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The perch was green."
+  },
+  {
+    "question_id": 289,
+    "video_name": "Joe-Robinet_1-clip-20",
+    "question": "What type of ground is there?",
+    "answer": "Rocky",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The ground in the image is covered with grass."
+  },
+  {
+    "question_id": 290,
+    "video_name": "Joe-Robinet_1-clip-20",
+    "question": "Is there a body of water around?",
+    "answer": "yes",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, there is a body of water near the person who is standing on the rock."
+  },
+  {
+    "question_id": 291,
+    "video_name": "Joe-Robinet_1-clip-20",
+    "question": "Is the area forested?",
+    "answer": "Partially",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, the area where the person is standing is forested."
+  },
+  {
+    "question_id": 293,
+    "video_name": "Bertram-Craft_0-clip-8",
+    "question": "What is the knife holder for?",
+    "answer": "To prevent the knife from jostling around",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The knife holder is used to hold the knife steady while the person is sharpening it."
+  },
+  {
+    "question_id": 294,
+    "video_name": "Chad-Zuber_7-clip-7",
+    "question": "What kind of ground is there?",
+    "answer": "Sandy beach",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The ground is covered with sand, which is typical for a beach setting."
+  },
+  {
+    "question_id": 298,
+    "video_name": "Survival-Instinct_5-clip-12",
+    "question": "What did the man do with the bird?",
+    "answer": "Tied it's legs together",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The man is holding the bird in his hand, possibly showing it off or observing it closely."
+  },
+  {
+    "question_id": 299,
+    "video_name": "Joe-Robinet_7-clip-0",
+    "question": "What is he doing?",
+    "answer": "Improving his shelter",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The man is holding a large knife and appears to be cutting something, possibly a branch or a piece of wood, while standing in the woods."
+  },
+  {
+    "question_id": 302,
+    "video_name": "Survival-Skills-Primitive_2-clip-2",
+    "question": "Are there any structures around?",
+    "answer": "Yes, a stone structure",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, there are some structures around the man, including a wooden structure and a fence."
+  },
+  {
+    "question_id": 303,
+    "video_name": "Chad-Zuber_11-clip-1",
+    "question": "What is the man doing?",
+    "answer": "Cutting up a cactus for food",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The man is standing in the field and observing the cactus plants."
+  },
+  {
+    "question_id": 307,
+    "video_name": "Joe-Robinet_7-clip-0",
+    "question": "Is the man cutting wood?",
+    "answer": "Yes, the man is cutting wood.",
+    "question_type": [
+      ""
+    ],
+    "pred": "No, the man is not cutting wood. He is using a pair of scissors to cut a plastic bag."
+  },
+  {
+    "question_id": 308,
+    "video_name": "Joe-Robinet_7-clip-0",
+    "question": "Is the man creating spark?",
+    "answer": "Yes he is creating spark.",
+    "question_type": [
+      "Existence",
+      "Motion"
+    ],
+    "pred": "Yes, the man is creating sparks while using the knife to cut the tree branch."
+  },
+  {
+    "question_id": 310,
+    "video_name": "Survival-Skills-Primitive_2-clip-2",
+    "question": "Is there a fire?",
+    "answer": "Yes there is a fire.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, there is a fire in the background, which is likely being used to heat the metal pot or kettle."
+  },
+  {
+    "question_id": 312,
+    "video_name": "Survival-Skills-Primitive_2-clip-2",
+    "question": "Is there a chimney?",
+    "answer": "Yes there is a chimney.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, there is a chimney in the image, which suggests that the man is using a traditional method for cooking or heating the food."
+  },
+  {
+    "question_id": 313,
+    "video_name": "Survival-Skills-Primitive_2-clip-2",
+    "question": "Are they cleaning the chimney with something?",
+    "answer": "Yes they are cleaning the chimney.",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "Yes, the man is cleaning the chimney with a brush."
+  },
+  {
+    "question_id": 314,
+    "video_name": "Chad-Zuber_11-clip-1",
+    "question": "Why is the man cutting up the cactus?",
+    "answer": "The man is cutting the cactus in order to eat the insides.",
+    "question_type": [
+      "Entity"
+    ],
+    "pred": "The man is cutting up the cactus to demonstrate how to prepare and use the plant as a natural remedy. In the image, he is holding a knife and cutting a piece of the cactus, which is a common practice in some cultures to extract the plant's juice or gel for medicinal purposes. The cactus contains various compounds that can have medicinal properties, such as anti-inflammatory, antioxidant, and pain-relieving effects. By cutting the cactus and showing how to prepare it, the man is likely sharing his knowledge and experience with others, possibly to educate them about the benefits of using natural remedies and the proper way to prepare and use them."
+  },
+  {
+    "question_id": 316,
+    "video_name": "Bertram-Craft_8-clip-5",
+    "question": "Is the fire there to keep the man warm during the night?",
+    "answer": "Yes it is.",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "Yes, the fire is being used to keep the man warm during the night, as it provides warmth and comfort in the cold and dark environment."
+  },
+  {
+    "question_id": 317,
+    "video_name": "Survival-Skills-Primitive_6-clip-4",
+    "question": "Does the material look homogeneous?",
+    "answer": "No, the material does not look homogeneous.",
+    "question_type": [
+      "Entity"
+    ],
+    "pred": "No, the material appears to be uneven, with some parts looking more like concrete and others looking more like dirt."
+  },
+  {
+    "question_id": 321,
+    "video_name": "Survival-Skills-Primitive_5-clip-3",
+    "question": "Are they creating notches in the bamboo?",
+    "answer": "Yes, they are using creating notches in the bamboo.",
+    "question_type": [
+      "Entity",
+      "Motion"
+    ],
+    "pred": "Yes, the two people are creating notches in the bamboo."
+  },
+  {
+    "question_id": 323,
+    "video_name": "Survival-Skills-Primitive_5-clip-3",
+    "question": "What are they doing with the reeds?",
+    "answer": "They are creating rope with the reeds.",
+    "question_type": [
+      "Existence",
+      "Motion"
+    ],
+    "pred": "The person is using the reeds to stir the water, creating a disturbance in the water's surface."
+  },
+  {
+    "question_id": 325,
+    "video_name": "Primitive-Technology_9-clip-5",
+    "question": "What does the man dong to the objects in his hand?",
+    "answer": "The man is planting the objects into soil.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The man is throwing the objects in his hand, which appear to be sticks or branches, into the forest."
+  },
+  {
+    "question_id": 326,
+    "video_name": "Survival-Instinct_1-clip-10",
+    "question": "Is there a dead animal?",
+    "answer": "Yes there is",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, there is a dead animal in the image, lying on the ground in the woods."
+  },
+  {
+    "question_id": 327,
+    "video_name": "Survival-Instinct_1-clip-10",
+    "question": "Is the man skinning the animal with a knife?",
+    "answer": "Yes he is",
+    "question_type": [
+      "Existence",
+      "Motion"
+    ],
+    "pred": "Yes, the man is skinning the animal with a knife while standing in the forest."
+  },
+  {
+    "question_id": 330,
+    "video_name": "BC-Bushcraft_7-clip-2",
+    "question": "What is the man using to start a flame?",
+    "answer": "The man is using dry moss and twigs to start a fire.",
+    "question_type": [
+      "Motion",
+      "Reasoning",
+      "Temporal relationship"
+    ],
+    "pred": "The man is using a lighter to start a flame."
+  },
+  {
+    "question_id": 333,
+    "video_name": "Primitive-Technology_12-clip-3",
+    "question": "Is the clay stiff?",
+    "answer": "No, the clay is loose and pliable.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, the clay appears to be stiff, which may make it more challenging to work with and shape."
+  },
+  {
+    "question_id": 337,
+    "video_name": "Bertram-Craft_9-clip-11",
+    "question": "Is the man cooking the fish using the fire?",
+    "answer": "Yes, the man is cooking the fish with the fire.",
+    "question_type": [
+      "Reasoning",
+      "Spatial relationship"
+    ],
+    "pred": "Yes, the man is cooking the fish using the fire, as he is seen cooking the fish over the fire pit."
+  },
+  {
+    "question_id": 338,
+    "video_name": "Survival-Instinct_0-clip-6",
+    "question": "Is the man working with wood?",
+    "answer": "Yes he is.",
+    "question_type": [
+      "Entity",
+      "Motion"
+    ],
+    "pred": "Yes, the man is working with wood, as he is cutting down a tree in the forest."
+  },
+  {
+    "question_id": 339,
+    "video_name": "Survival-Instinct_0-clip-6",
+    "question": "Is the man making a frame out of wood?",
+    "answer": "Yes the man is making a frame out of wood.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, the man is making a frame out of wood in the image."
+  },
+  {
+    "question_id": 341,
+    "video_name": "King-Kong-Amazon_10-clip-13",
+    "question": "What is in the tube?",
+    "answer": "It appears to be seeds kept in the tube.",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "There is a shovel in the tube."
+  },
+  {
+    "question_id": 343,
+    "video_name": "Survival-Instinct_10-clip-9",
+    "question": "What is happening to the tree branch?",
+    "answer": "Judging by the way the branch is being bent and secured, this branch is being used to set a trap.",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The tree branch is breaking off, likely due to the weight of the leaves and the surrounding brush."
+  },
+  {
+    "question_id": 344,
+    "video_name": "Primitive-Technology_2-clip-2",
+    "question": "What is the man doing?",
+    "answer": "This man appears to be crafting a structure similar to the shape of a house/hut.",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The man is walking through the woods, possibly carrying a backpack."
+  },
+  {
+    "question_id": 346,
+    "video_name": "BC-Bushcraft_3-clip-0",
+    "question": "When can people collect the Douglas Fur Tree needles?",
+    "answer": "People can collect them during spring time.",
+    "question_type": [
+      "Time"
+    ],
+    "pred": "People can collect Douglas Fur Tree needles anytime during the year, as they are available year-round."
+  },
+  {
+    "question_id": 347,
+    "video_name": "BC-Bushcraft_3-clip-0",
+    "question": "What wild edible can people collect from the Douglas Fur Tree?",
+    "answer": "People can collect Douglas Fur Tree needles.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "People can collect Douglas Fur Tree berries as a wild edible. In the image, a person is walking through a forest with a backpack, and the Douglas Fur Tree is visible. The berries of the Douglas Fur Tree can be used to make jams, jellies, and other sweet treats, and they are often harvested by hikers and nature enthusiasts who enjoy foraging for wild edibles."
+  },
+  {
+    "question_id": 348,
+    "video_name": "Survival-Instinct_6-clip-0",
+    "question": "Is the man cooking food in the video?",
+    "answer": "Yes, the man is smoking a bat.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "No, the man is not cooking food in the video. He is walking through the woods and holding a stick."
+  },
+  {
+    "question_id": 351,
+    "video_name": "BC-Bushcraft_7-clip-2",
+    "question": "What is the man trying to do?",
+    "answer": "Based on the items he is gathering and what he says, he is wanting to make a fire.",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The man is trying to find a way through the woods, possibly attempting to navigate through the dense forest or dense brush."
+  },
+  {
+    "question_id": 352,
+    "video_name": "Bertram-Craft_9-clip-11",
+    "question": "What is going on in this video?",
+    "answer": "It appears the man is cooking something in the fire, likely his dinner, and he lays down on some fur while he waits for things to cook.",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The image is a time-lapse video of a campfire being built in a forest. The fire is surrounded by trees, creating a serene and peaceful atmosphere. The video captures the process of gathering and arranging the firewood, with the fire eventually catching and growing. The fire's progress can be seen as the flames slowly spread and the firewood is consumed, creating a warm and inviting scene."
+  },
+  {
+    "question_id": 353,
+    "video_name": "Survival-Skills-Primitive_4-clip-54",
+    "question": "What are the humans looking for in the sand?",
+    "answer": "The humans are looking for crabs in the sand.",
+    "question_type": [
+      "Existence",
+      "Motion"
+    ],
+    "pred": "The humans are looking for a rock in the sand, possibly to identify or collect it for a specific purpose."
+  },
+  {
+    "question_id": 355,
+    "video_name": "King-Kong-Amazon_12-clip-2",
+    "question": "What is the human doing with the bamboo?",
+    "answer": "The human is building a wall for his shelter.",
+    "question_type": [
+      "Existence",
+      "Motion",
+      "Reasoning"
+    ],
+    "pred": "The human is working on the bamboo structure, possibly building or repairing it, while standing on a wooden platform or a wooden ladder."
+  },
+  {
+    "question_id": 360,
+    "video_name": "King-Kong-Amazon_7-clip-3",
+    "question": "Why is the human collecting leaves of plants?",
+    "answer": "The leaves will be used to make tea.",
+    "question_type": [
+      "Existence",
+      "Motion"
+    ],
+    "pred": "The human in the image is collecting leaves from a plant in a forest. There could be several reasons for this action. One possibility is that the person is gathering the leaves for medicinal or culinary purposes, as some plants have leaves that are used in traditional medicine or as ingredients in certain dishes. Another reason could be that the person is conducting a scientific study or research on the plant, collecting leaves to analyze their properties, growth patterns, or other characteristics. Additionally, the person might be engaged in a recreational activity, such as a nature walk or a photography project, where they are documenting the plant life in the forest."
+  },
+  {
+    "question_id": 367,
+    "video_name": "Bertram-Craft_0-clip-8",
+    "question": "What is the purpose of this wooden object?",
+    "answer": "This appears to be a case to hold the knife shown.",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The purpose of this wooden object is to be used as a tool for sharpening knives."
+  },
+  {
+    "question_id": 372,
+    "video_name": "Bertram-Craft_3-clip-8",
+    "question": "How does this man start his fire?",
+    "answer": "It appears that the man starts striking some rocks together to get a small spark that he then uses on some kindling he has gathered.",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The man in the image starts his fire by using a flint and steel to strike a spark and ignite a pile of dry leaves. He then places the burning leaves on a dead tree branch, which acts as a makeshift fire starter. This method is commonly used in outdoor settings, such as camping or survival situations, to create a fire for warmth, cooking, or signaling purposes."
+  },
+  {
+    "question_id": 377,
+    "video_name": "Survival-Skills-Primitive_1-clip-7",
+    "question": "What are the men in this video doing?",
+    "answer": "They appear to be cooking food that is contained in shells and using small sticks as tools to pick them up and also to get the meat out of to eat.",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The men in the video are cutting down a tree using a large knife and a machete."
+  },
+  {
+    "question_id": 382,
+    "video_name": "Primitive-Technology_0-clip-0",
+    "question": "What is the man doing with all the wood he has cut?",
+    "answer": "Seeing the shelter at the beginning of the video and then seeing the different length of logs he has cut down, I believe this man is building a similar structure.",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The man is carrying the wood he has cut on his back, likely to transport it to a different location or to use it for a specific purpose."
+  },
+  {
+    "question_id": 384,
+    "video_name": "Survival-Skills-Primitive_2-clip-2",
+    "question": "What are the men using the different sticks for?",
+    "answer": "One man is using sticks to place rocks, possibly coal, into the fire; the other man uses a skinny stick to stick into the hollow stick to clean it out; both men use the sticks to poke into the tube-like structure by the fire; and both men tap the sticks with rocks to force something to come out of them.",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The men are using the different sticks to stir or mix the contents of the pot or kettle."
+  },
+  {
+    "question_id": 385,
+    "video_name": "Chad-Zuber_11-clip-1",
+    "question": "What is the man doing?",
+    "answer": "This man is slicing off the spines of a cactus so he can peel the skin to reveal the inside of the cactus, which could further be eaten.",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The man is standing next to the cactus plants, observing and possibly taking care of them."
+  },
+  {
+    "question_id": 386,
+    "video_name": "Bertram-Craft_8-clip-5",
+    "question": "What is the man doing?",
+    "answer": "In the beginning, he is lying under a small shelter next to a fire, then the next scene he is sitting by a fire and then he begins chopping the tip off a branch, and gathering other branches to take back to where he was sitting by the fire.",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The man is standing in the woods, holding a stick and possibly using it to move or clear away branches or debris."
+  },
+  {
+    "question_id": 387,
+    "video_name": "King-Kong-Amazon_0-clip-5",
+    "question": "Why is the human putting meat into the cylinder and vegetation kindling on top?",
+    "answer": "The human intends to set fire to the kindling and dry the meat out.",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The human is likely preparing a traditional method of cooking, such as a barbecue or a pit-style cooking method. The cylinder, also known as a smoker or grill, is used to contain the heat and smoke, while the vegetation kindling on top serves as fuel for the fire. By placing the meat in the cylinder and kindling on top, the person is creating a controlled cooking environment that allows the meat to cook evenly and slowly, resulting in a flavorful and tender final product. This method of cooking is often preferred for certain types of meats, such as barbecue or smoked meats, as it enhances the natural flavors and creates a unique taste profile."
+  },
+  {
+    "question_id": 388,
+    "video_name": "Bertram-Craft_4-clip-0",
+    "question": "Which direction is the wind blowing?",
+    "answer": "The wind is blowing to the left.",
+    "question_type": [
+      "Existence",
+      "Location"
+    ],
+    "pred": "The wind is blowing from the left side of the image towards the right side."
+  },
+  {
+    "question_id": 392,
+    "video_name": "Joe-Robinet_8-clip-7",
+    "question": "What is the human using to create these toggles?",
+    "answer": "Th human will use an axe and saw to create the toggles.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The human is using a pair of wire cutters to create the toggles."
+  },
+  {
+    "question_id": 394,
+    "video_name": "Joe-Robinet_1-clip-20",
+    "question": "What is the man doing by the water?",
+    "answer": "The man is fishing by the water.",
+    "question_type": [
+      "Existence",
+      "Reasoning"
+    ],
+    "pred": "The man is standing by the water, watching the waves and possibly enjoying the view."
+  },
+  {
+    "question_id": 395,
+    "video_name": "Joe-Robinet_10-clip-8",
+    "question": "What is the human doing to the fish?",
+    "answer": "The human is cutting the fish to consume in the future.",
+    "question_type": [
+      "Existence",
+      "Motion"
+    ],
+    "pred": "The human is attempting to catch the fish by reaching into the water with a pole."
+  },
+  {
+    "question_id": 396,
+    "video_name": "Joe-Robinet_3-clip-4",
+    "question": "Is the man going to be staying in the woods for the evening?",
+    "answer": "Judging by the man mentioning the time and how dark it was and then saying he would only be staying up a few more hours so he should start the fire now, I believe he will be sleeping in the wilderness for the night.",
+    "question_type": [
+      "Location",
+      "Time"
+    ],
+    "pred": "It is not possible to definitively determine from the image whether the man is staying in the woods for the evening or just passing through. However, given that he is holding a lit candle and a knife, it is possible that he is preparing for an overnight stay in the woods or simply using the candle for light and the knife for various purposes, such as cutting wood or preparing food."
+  },
+  {
+    "question_id": 397,
+    "video_name": "King-Kong-Amazon_4-clip-7",
+    "question": "What kind of structure is the man building?",
+    "answer": "Judging by the lattice design and 3 other sides that are built the same way with the last one being the top part the man is adding on, I believe this to be a cage/coop for animals.",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The man is building a bamboo structure, which could be a shelter, a bridge, or a part of a larger structure. The specific purpose of the structure cannot be determined from the image alone."
+  },
+  {
+    "question_id": 399,
+    "video_name": "Bertram-Craft_6-clip-6",
+    "question": "Is this man cleaning off these branches to add them to the shelter behind him?",
+    "answer": "Judging from the shape, size, and quality of the branches used in the pre-existing shelter behind the man, I believe he is refining the log he is chopping to add it to his shelter he has crafted.",
+    "question_type": [
+      "Existence",
+      "Reasoning"
+    ],
+    "pred": "Yes, the man is cleaning off the branches to add them to the shelter behind him, which he is building in the woods."
+  },
+  {
+    "question_id": 400,
+    "video_name": "Primitive-Technology_8-clip-1",
+    "question": "What is the man crafting out of sticks, leaves, and mud?",
+    "answer": "Based off the way the sticks and leaves were arranged, I assumed he was setting up to build a fire. Once he added the mud in and started packing it around the structure, I was not as sure if he was still building a fire but maybe using the mud to hold the structure in place.",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The man is crafting a hut or a shelter out of sticks, leaves, and mud."
+  },
+  {
+    "question_id": 401,
+    "video_name": "Chad-Zuber_2-clip-4",
+    "question": "Does the human have water?",
+    "answer": "Yes, the human has access to water.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, the human figure appears to be wet, which suggests that they have been in the water."
+  },
+  {
+    "question_id": 404,
+    "video_name": "King-Kong-Amazon_3-clip-9",
+    "question": "What is the human setting up using the stick and rope?",
+    "answer": "The human is setting up a trap for birds.",
+    "question_type": [
+      "Entity",
+      "Motion",
+      "Reasoning",
+      "Spatial relationship"
+    ],
+    "pred": "The human is setting up a hammock using the stick and rope."
+  },
+  {
+    "question_id": 405,
+    "video_name": "Chad-Zuber_2-clip-4",
+    "question": "Does the human have shelter?",
+    "answer": "Yes, the human has shelter.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, the human has shelter, as they are standing under a rock overhang or a cave, which provides protection from the elements and the sun."
+  },
+  {
+    "question_id": 407,
+    "video_name": "King-Kong-Amazon_3-clip-9",
+    "question": "What is the man doing by the tree?",
+    "answer": "With all the tying he is doing around the tree, I believe he is setting up a potential trap to catch animals.",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The man is standing next to the tree and appears to be cutting it down."
+  },
+  {
+    "question_id": 409,
+    "video_name": "Bertram-Craft_0-clip-8",
+    "question": "What is the human creating out of wood?",
+    "answer": "The human is creating a carrying case for knife out of wood.",
+    "question_type": [
+      "Existence",
+      "Spatial relationship"
+    ],
+    "pred": "The human is creating a pair of scissors out of wood."
+  },
+  {
+    "question_id": 411,
+    "video_name": "Survival-Instinct_5-clip-12",
+    "question": "Why did the human catch the bird?",
+    "answer": "The human caught the bird to cook and eat it.",
+    "question_type": [
+      "Existence",
+      "Reasoning"
+    ],
+    "pred": "The human caught the bird in the forest for the purpose of studying it. In the image, the person is holding the bird in their hand, which suggests that they are interested in observing or examining the bird's features, behavior, or biology. This could be for scientific research, wildlife conservation, or simply out of curiosity. The person's actions indicate that they are engaged in a learning experience or an exploration of the natural world."
+  },
+  {
+    "question_id": 413,
+    "video_name": "Chad-Zuber_12-clip-12",
+    "question": "What is the human creating.",
+    "answer": "The human is weaving a cloth out of a yarn like material.",
+    "question_type": [
+      "Existence",
+      "Motion"
+    ],
+    "pred": "The human is creating a shelter or a hut using straw, grass, and leaves."
+  },
+  {
+    "question_id": 415,
+    "video_name": "Survival-Instinct_3-clip-7",
+    "question": "Does the human have fire?",
+    "answer": "Yes, the human has fire?",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, the human in the image has fire, which is likely used for lighting or warmth during their journey through the forest."
+  },
+  {
+    "question_id": 416,
+    "video_name": "Survival-Instinct_3-clip-7",
+    "question": "Does the human have food?",
+    "answer": "The human is trying to catch a crab.",
+    "question_type": [
+      "Existence",
+      "Motion"
+    ],
+    "pred": "Yes, the human has food, as they are holding a banana."
+  },
+  {
+    "question_id": 417,
+    "video_name": "Survival-Skills-Primitive_1-clip-7",
+    "question": "What are the humans doing?",
+    "answer": "The humans in the video are preparing and eating food.",
+    "question_type": [
+      "Existence",
+      "Motion"
+    ],
+    "pred": "The two humans are observing the process of the man cutting the tree with the axe."
+  },
+  {
+    "question_id": 421,
+    "video_name": "Survival-Instinct_10-clip-9",
+    "question": "Why is the man bending the stick down?",
+    "answer": "The man is bending the stick down to great an animal trap.",
+    "question_type": [
+      "Existence",
+      "Reasoning"
+    ],
+    "pred": "The man is bending the stick down to create a makeshift walking stick or a support for himself while navigating the uneven terrain. This can help him maintain balance and stability while walking through the forest, especially if the ground is muddy, slippery, or covered with leaves and branches. The stick can also serve as a tool to help him move through the brush more easily and avoid potential obstacles or hazards."
+  },
+  {
+    "question_id": 423,
+    "video_name": "King-Kong-Amazon_10-clip-13",
+    "question": "Other than sticks what is the man placing in the ground?",
+    "answer": "The man is also planting seeds into the ground.",
+    "question_type": [
+      "Existence",
+      "Motion"
+    ],
+    "pred": "The man is placing a metal object, likely a gardening tool, in the ground."
+  },
+  {
+    "question_id": 424,
+    "video_name": "King-Kong-Amazon_10-clip-13",
+    "question": "Why is the man placing sticks into the soil?",
+    "answer": "The human is putting sticks into the ground to keep the soil rich with nutrients.",
+    "question_type": [
+      "Motion",
+      "Reasoning"
+    ],
+    "pred": "The man is placing sticks into the soil to create a barrier or a fence-like structure. This structure can help prevent the spread of weeds, maintain the shape of the garden bed, and provide support for the plants growing in the area. The sticks can also be used as a support for the plants, such as tomato plants, which are seen growing in the garden bed. By creating a barrier, the man is ensuring that the plants have a controlled environment, allowing them to grow properly and maintain their health."
+  },
+  {
+    "question_id": 425,
+    "video_name": "Primitive-Technology_2-clip-2",
+    "question": "What is the purpose of the man cutting vegetation?",
+    "answer": "The man will use the vegetation as a roof for his shelter.",
+    "question_type": [
+      "Entity"
+    ],
+    "pred": "The man is cutting vegetation to clear a path through the woods, making it easier for him to navigate through the dense foliage."
+  },
+  {
+    "question_id": 426,
+    "video_name": "Primitive-Technology_2-clip-2",
+    "question": "What is the man using to cut the vegetation?",
+    "answer": "The man is using a piece of sharp stone to cut the vegetation.",
+    "question_type": [
+      "Existence",
+      "Reasoning"
+    ],
+    "pred": "The man is using a machete to cut the vegetation."
+  },
+  {
+    "question_id": 427,
+    "video_name": "Primitive-Technology_2-clip-2",
+    "question": "What structure is the man creating out of sticks?",
+    "answer": "The man is creating a structure of a house out of sticks.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The man is creating a teepee, a traditional Native American structure, out of sticks."
+  },
+  {
+    "question_id": 428,
+    "video_name": "BC-Bushcraft_3-clip-0",
+    "question": "How can this vegetation be recognized as being a wild edible?",
+    "answer": "Based off what the man says and shows us, this can be recognized as a wild edible by the location and the two white lines underneath the needle similar to Hemlock.",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The vegetation in the image can be recognized as a wild edible because it is a plant with leaves and berries, which are commonly found in forests and wooded areas. The presence of leaves and berries suggests that the plant is likely to be a source of food for wildlife, such as birds and small mammals, and possibly for humans as well. The plant's location in a wooded area and its growth in a natural environment further support the idea that it is a wild edible plant."
+  },
+  {
+    "question_id": 429,
+    "video_name": "Survival-Instinct_6-clip-0",
+    "question": "What is the man doing at the beginning of the video?",
+    "answer": "The man is sitting by a fire and appears to be cooking some small animals over the fire.",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The man is walking through the woods, surrounded by trees and bushes."
+  },
+  {
+    "question_id": 430,
+    "video_name": "King-Kong-Amazon_2-clip-7",
+    "question": "Is there a fire?",
+    "answer": "Yes, there is a fire.",
+    "question_type": [
+      "Entity"
+    ],
+    "pred": "Yes, there is a fire in the forest, and the man is walking through the woods near the fire."
+  },
+  {
+    "question_id": 431,
+    "video_name": "King-Kong-Amazon_2-clip-7",
+    "question": "Is the human cooking and eating the animals that were caught?",
+    "answer": "Yes, the human is cooking and eating the animals that were caught.",
+    "question_type": [
+      "Entity",
+      "Motion"
+    ],
+    "pred": "Yes, the human is cooking and eating the animals that were caught in the forest."
+  },
+  {
+    "question_id": 435,
+    "video_name": "Primitive-Technology_8-clip-1",
+    "question": "What is the man creating?",
+    "answer": "The human is create a place for long term storage.",
+    "question_type": [
+      "Existence",
+      "Motion"
+    ],
+    "pred": "The man is creating a makeshift ladder using tree branches and vines."
+  },
+  {
+    "question_id": 437,
+    "video_name": "King-Kong-Amazon_4-clip-7",
+    "question": "What is the human using to create the weaved plane.",
+    "answer": "The human is using woven bamboo to create the plane.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The human is using a stick to weave the plane in the forest."
+  },
+  {
+    "question_id": 439,
+    "video_name": "Bertram-Craft_10-clip-8",
+    "question": "Why is the human running the knife along the piece of leather.",
+    "answer": "The human is sharpening the knife with the piece of leather.",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "The human is running the knife along the piece of leather to sharpen it. Sharpening a knife is essential for maintaining its sharpness and ensuring optimal cutting performance. By using a knife sharpener, the person is improving the knife's edge, making it more efficient and effective for various tasks such as cutting food, preparing materials, or performing outdoor activities."
+  },
+  {
+    "question_id": 441,
+    "video_name": "BC-Bushcraft_1-clip-8",
+    "question": "What is the man doing with these logs?",
+    "answer": "Based on his actions and words, I am assuming this man will be building a structure that needs a secure base/posts to continue building properly",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The man is cutting down a tree with a chainsaw, and he is also dragging a log with a rope."
+  },
+  {
+    "question_id": 443,
+    "video_name": "Chad-Zuber_1-clip-10",
+    "question": "What is happening in the video?",
+    "answer": "Judging by him piling the muddy substance into these open slots, I believe he is filling these molds to let dry and create more brick-shaped blocks.",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "In the video, a person is using a shovel to dig a hole in the ground."
+  },
+  {
+    "question_id": 444,
+    "video_name": "Dan-Robinson_12-clip-0",
+    "question": "what type of weather phenomenon is happening?",
+    "answer": "Rain and wind.",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "A weather phenomenon is occurring where a large, dark cloud is forming in the sky, possibly indicating the onset of rain or a storm."
+  },
+  {
+    "question_id": 446,
+    "video_name": "Skip-Talbot_12-clip-2",
+    "question": "What type of weather is happening?",
+    "answer": "Tornadoes and rain.",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "The weather in the image is cloudy, with dark, ominous clouds covering the sky."
+  },
+  {
+    "question_id": 447,
+    "video_name": "Skip-Talbot_12-clip-2",
+    "question": "Are there any buildings?",
+    "answer": "Yes.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, there are buildings visible in the image, located near the cloudy sky and the field."
+  },
+  {
+    "question_id": 448,
+    "video_name": "Skip-Talbot_12-clip-2",
+    "question": "Are the buildings being affected by the weather?",
+    "answer": "No.",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "Yes, the buildings are being affected by the weather, as the storm clouds are rolling over them."
+  },
+  {
+    "question_id": 451,
+    "video_name": "Disaster-Compilations_7-clip-1",
+    "question": "What type of weather is happening?",
+    "answer": "Flooding and rain.",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "It is raining in the image, as evidenced by the wet road and the presence of rainwater."
+  },
+  {
+    "question_id": 454,
+    "video_name": "Weathershot_1-clip-0",
+    "question": "What type of storm was it?",
+    "answer": "Typhoon",
+    "question_type": [
+      "Existence",
+      "Motion"
+    ],
+    "pred": "It is not possible to determine the exact type of storm from the image alone. However, the presence of rain, wind, and a cloudy sky suggest that it was likely a stormy day."
+  },
+  {
+    "question_id": 457,
+    "video_name": "Skip-Talbot_4-clip-2",
+    "question": "What type of weather was occurring?",
+    "answer": "Tornadoes and rain",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "A tornado was occurring in the image, causing a dark and ominous sky."
+  },
+  {
+    "question_id": 458,
+    "video_name": "Skip-Talbot_4-clip-2",
+    "question": "Where was the weather happening?",
+    "answer": "Fields.",
+    "question_type": [
+      "Location"
+    ],
+    "pred": "The weather was happening in a rural area, where the tornado was forming and causing damage."
+  },
+  {
+    "question_id": 460,
+    "video_name": "Weathershot_0-clip-2",
+    "question": "What is the weather event causing?",
+    "answer": "high winds and rain.",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "The weather event causing the storm clouds and lightning is a thunderstorm."
+  },
+  {
+    "question_id": 461,
+    "video_name": "Weathershot_0-clip-2",
+    "question": "Where is the weather event happening?",
+    "answer": "A suburb.",
+    "question_type": [
+      "Location"
+    ],
+    "pred": "The weather event is happening in a city, where a storm is taking place."
+  },
+  {
+    "question_id": 462,
+    "video_name": "Climate-Change_12-clip-16",
+    "question": "What type of weather is happening?",
+    "answer": "Flooding",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "The weather in the image is rainy, as evidenced by the flooded street and the people walking in the rain."
+  },
+  {
+    "question_id": 465,
+    "video_name": "Climate-Change_12-clip-16",
+    "question": "What types of vehicles are being affected?",
+    "answer": "Cars, buses, motorcycles, mopeds. ",
+    "question_type": [
+      "Entity",
+      "Existence"
+    ],
+    "pred": "Cars and motorcycles are being affected by the flood waters."
+  },
+  {
+    "question_id": 467,
+    "video_name": "Disaster-Compilations_6-clip-2",
+    "question": "Are there structures being affected?",
+    "answer": "Yes",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "Yes, there are structures being affected by the flood waters, as the water is flowing over a bridge and flooding a parking lot."
+  },
+  {
+    "question_id": 472,
+    "video_name": "Dan-Robinson_11-clip-0",
+    "question": "How were the structures affected?",
+    "answer": "The buildings siding was torn off and the electrical pole was broken.",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "The structures, such as the house and the barn, were affected by the storm by being damaged or destroyed."
+  },
+  {
+    "question_id": 474,
+    "video_name": "Ultimate-Chase_5-clip-0",
+    "question": "What was the weather phenomenon?",
+    "answer": "Hurricane",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "The weather phenomenon in the image is a dust storm, which is a strong windstorm that carries dust and sand from the ground into the atmosphere."
+  },
+  {
+    "question_id": 476,
+    "video_name": "Tornado-Trackers_11-clip-1",
+    "question": "What type of weather is happening?",
+    "answer": "A hurricane.",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "It is raining, and the weather is overcast, which is why the sky is dark and the visibility is low."
+  },
+  {
+    "question_id": 479,
+    "video_name": "Dan-Robinson_8-clip-6",
+    "question": "What type of weather is happening?",
+    "answer": "Wind, rain, lightning, tornadoes. ",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "The weather in the image is stormy, with dark clouds and a storm cloud hovering over the area."
+  },
+  {
+    "question_id": 482,
+    "video_name": "Ultimate-Chase_0-clip-0",
+    "question": "What happened before the hotel flooded?",
+    "answer": "There was a storm surge.",
+    "question_type": [
+      "Motion",
+      "Time"
+    ],
+    "pred": "Before the hotel flooded, a tornado had passed through the area, causing the flooding."
+  },
+  {
+    "question_id": 485,
+    "video_name": "Disaster-Compilations_4-clip-2",
+    "question": "How are people being affected?",
+    "answer": "homes and power lines destroyed.",
+    "question_type": [
+      "Entity",
+      "Motion",
+      "Spatial relationship"
+    ],
+    "pred": "In the image, a large, dark storm cloud is looming over a town, and the sky is filled with lightning. People in the town are likely affected by the storm in various ways. They may be experiencing strong winds, heavy rain, and possibly even thunder and lightning. These conditions can cause discomfort, inconvenience, and potential damage to property, such as fallen trees or power outages. Additionally, the storm may lead to travel disruptions, as people may need to seek shelter or avoid venturing outside during the storm. The presence of a car in the image suggests that some people are still on the move, which could be challenging due to the weather conditions. Overall, the storm is likely causing disruptions and affecting the daily lives of the people in the town."
+  },
+  {
+    "question_id": 486,
+    "video_name": "Dan-Robinson_7-clip-1",
+    "question": "Are there high winds as a result of the storm?",
+    "answer": "Yes",
+    "question_type": [
+      "Existence",
+      "Motion"
+    ],
+    "pred": "Yes, there are high winds as a result of the storm, which can be observed by the tall grass blowing in the field."
+  },
+  {
+    "question_id": 487,
+    "video_name": "Weathershot_2-clip-2",
+    "question": "What type of weather phenomenon is occurring?",
+    "answer": "A tornado",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "A tornado is occurring in the image, which is a powerful weather phenomenon characterized by a rotating column of air that forms a funnel-shaped cloud."
+  },
+  {
+    "question_id": 489,
+    "video_name": "Disaster-Compilations_4-clip-2",
+    "question": "What type of weather phenomenon is happening?",
+    "answer": "A tornado",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "A tornado is occurring in the image, which is a powerful weather phenomenon characterized by a rotating column of air and cloud debris."
+  },
+  {
+    "question_id": 492,
+    "video_name": "Dan-Robinson_7-clip-1",
+    "question": "Are there any funnel clouds or tornadoes?",
+    "answer": "No",
+    "question_type": [
+      "Entity",
+      "Existence"
+    ],
+    "pred": "No, there are no funnel clouds or tornadoes visible in the image. The main feature is the dark, ominous cloud with lightning in the background."
+  },
+  {
+    "question_id": 493,
+    "video_name": "Disaster-Compilations_4-clip-2",
+    "question": "Are people being affected?",
+    "answer": "Yes",
+    "question_type": [
+      "Entity",
+      "Motion",
+      "Spatial relationship"
+    ],
+    "pred": "Yes, people are being affected by the storm, as they are watching the storm clouds roll in from their windows."
+  },
+  {
+    "question_id": 494,
+    "video_name": "Weathershot_2-clip-2",
+    "question": "Is there any hail?",
+    "answer": "No",
+    "question_type": [
+      "Entity",
+      "Existence",
+      "Motion"
+    ],
+    "pred": "Yes, there is hail falling from the sky along with the tornado."
+  },
+  {
+    "question_id": 496,
+    "video_name": "Natural-Disaster_6-clip-0",
+    "question": "What is happening to the water?",
+    "answer": "Storm surges, large waves",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "The water is being thrown up into the air, creating a large wave or a wave crash."
+  },
+  {
+    "question_id": 499,
+    "video_name": "Disaster-Compilations_0-clip-1",
+    "question": "Where did the flooding occur?",
+    "answer": "In a city and in a forest.",
+    "question_type": [
+      "Location"
+    ],
+    "pred": "The flooding occurred in a city street, likely due to heavy rain or a natural disaster."
+  },
+  {
+    "question_id": 502,
+    "video_name": "Climate-Change_1-clip-10",
+    "question": "What were the affects of the weather on the cities?",
+    "answer": "Streets flooded, cars swept away, various types of property damage.",
+    "question_type": [
+      "Motion",
+      "Spatial relationship"
+    ],
+    "pred": "The weather in the image shows a city being flooded by rain, with water covering the streets and causing traffic disruptions. The flooding has affected the city's transportation system, as evidenced by the cars driving through the flooded streets. Additionally, the rain has likely caused discomfort for the people in the city, as they have to navigate through the flooded areas. The flooding can also lead to potential damage to infrastructure, such as roads, bridges, and buildings, and may require emergency response efforts to manage the situation and protect the city's residents and property."
+  },
+  {
+    "question_id": 505,
+    "video_name": "Skip-Talbot_9-clip-0",
+    "question": "Where are the people tracking the tornado?",
+    "answer": "In a city in Nebraska",
+    "question_type": [
+      "Location"
+    ],
+    "pred": "The people are tracking the tornado from inside their vehicles, likely from a safe distance to avoid the direct path of the storm."
+  },
+  {
+    "question_id": 506,
+    "video_name": "Skip-Talbot_9-clip-0",
+    "question": "How many tornadoes are there?",
+    "answer": "One fully formed tornado.",
+    "question_type": [
+      "Entity",
+      "Number"
+    ],
+    "pred": "There are two tornadoes in the image."
+  },
+  {
+    "question_id": 508,
+    "video_name": "Ultimate-Chase_10-clip-2",
+    "question": "What type of weather event is occuring?",
+    "answer": "Hurricane",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "A tornado is occurring, which is a severe weather event characterized by a rotating column of air and cloud debris that forms a funnel cloud."
+  },
+  {
+    "question_id": 509,
+    "video_name": "Disaster-Compilations_3-clip-2",
+    "question": "What type of event is happening?",
+    "answer": "Volcanic eruption.",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "A storm is happening, and it is causing a flood in the area."
+  },
+  {
+    "question_id": 513,
+    "video_name": "Disaster-Compilations_3-clip-2",
+    "question": "What are the people doing?",
+    "answer": "Getting on boats and buses.",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "The people are watching the tornado from a safe distance, likely observing the storm and its aftermath."
+  },
+  {
+    "question_id": 514,
+    "video_name": "Natural-Disaster_7-clip-0",
+    "question": "What type of weather happened?",
+    "answer": "A storm",
+    "question_type": [
+      "Existence",
+      "Motion"
+    ],
+    "pred": "A heavy downpour of rain happened, causing the water to flood the street."
+  },
+  {
+    "question_id": 516,
+    "video_name": "Natural-Disaster_0-clip-0",
+    "question": "Where is the river?",
+    "answer": "In a city.",
+    "question_type": [
+      "Entity",
+      "Location"
+    ],
+    "pred": "The river is located in a city, as evidenced by the presence of a bridge and a building nearby."
+  },
+  {
+    "question_id": 517,
+    "video_name": "Weathershot_11-clip-0",
+    "question": "Where is the flooding happening?",
+    "answer": "In a city.",
+    "question_type": [
+      "Location"
+    ],
+    "pred": "The flooding is happening in a street, with water covering the road and surrounding areas."
+  },
+  {
+    "question_id": 521,
+    "video_name": "Tornado-Trackers_2-clip-2",
+    "question": "What is the storm causing?",
+    "answer": "Flooding, high winds, rain, and large waves.",
+    "question_type": [
+      "Motion",
+      "Spatial relationship"
+    ],
+    "pred": "The storm is causing flooding, as the water is rising and covering the road."
+  },
+  {
+    "question_id": 523,
+    "video_name": "Climate-Change_8-clip-9",
+    "question": "Where did the tornado happen?",
+    "answer": "In the desert.",
+    "question_type": [
+      "Entity",
+      "Location"
+    ],
+    "pred": "The tornado happened in a city, as evidenced by the presence of buildings and the urban setting."
+  },
+  {
+    "question_id": 524,
+    "video_name": "Skip-Talbot_10-clip-0",
+    "question": "Are there any funnel clouds?",
+    "answer": "Yes.",
+    "question_type": [
+      "Entity",
+      "Existence"
+    ],
+    "pred": "Yes, there are funnel clouds visible in the image, along with the tornado."
+  },
+  {
+    "question_id": 527,
+    "video_name": "Climate-Change_8-clip-9",
+    "question": "Were the forests on fire?",
+    "answer": "Yes.",
+    "question_type": [
+      "Existence",
+      "Motion"
+    ],
+    "pred": "Yes, the forests were on fire, as indicated by the fire raging through the trees and the smoke billowing from the trees."
+  },
+  {
+    "question_id": 529,
+    "video_name": "Skip-Talbot_0-clip-9",
+    "question": "Is there any lightning?",
+    "answer": "No",
+    "question_type": [
+      "Existence",
+      "Motion"
+    ],
+    "pred": "Yes, there is a lightning bolt visible in the image, adding to the dramatic and stormy atmosphere."
+  },
+  {
+    "question_id": 530,
+    "video_name": "Skip-Talbot_10-clip-0",
+    "question": "Are there any tornadoes?",
+    "answer": "No.",
+    "question_type": [
+      "Entity",
+      "Existence"
+    ],
+    "pred": "Yes, there are tornadoes in the image, as indicated by the presence of a tornado in the background."
+  },
+  {
+    "question_id": 531,
+    "video_name": "Skip-Talbot_10-clip-0",
+    "question": "Is there any precipitation?",
+    "answer": "No",
+    "question_type": [
+      "Existence",
+      "Motion"
+    ],
+    "pred": "Yes, there is rain falling in the image, which is contributing to the formation of the tornado."
+  },
+  {
+    "question_id": 534,
+    "video_name": "Climate-Change_8-clip-9",
+    "question": "What types of natural disasters occurred?",
+    "answer": "Flooding, wildfires, and tornadoes.",
+    "question_type": [
+      "Existence",
+      "Motion"
+    ],
+    "pred": "The natural disasters that occurred in the image are a tornado and a volcanic eruption."
+  },
+  {
+    "question_id": 535,
+    "video_name": "Dan-Robinson_0-clip-2",
+    "question": "What are the people doing?",
+    "answer": "The people are driving.",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "The people are watching the tornado from a safe distance, likely observing the storm and its destructive power."
+  },
+  {
+    "question_id": 537,
+    "video_name": "Tornado-Trackers_4-clip-4",
+    "question": "Where did the effects happen?",
+    "answer": "In a town and on the road.",
+    "question_type": [
+      "Location",
+      "Spatial relationship"
+    ],
+    "pred": "The effects of the storm, such as the tornado and the rain, happened in a rural area."
+  },
+  {
+    "question_id": 538,
+    "video_name": "Dan-Robinson_10-clip-0",
+    "question": "Where is the tornado?",
+    "answer": "In a farm field",
+    "question_type": [
+      "Location"
+    ],
+    "pred": "The tornado is located in the middle of a field."
+  },
+  {
+    "question_id": 541,
+    "video_name": "Dan-Robinson_0-clip-2",
+    "question": "How many tornadoes are there?",
+    "answer": "One.",
+    "question_type": [
+      "Entity",
+      "Number"
+    ],
+    "pred": "There are two tornadoes in the image."
+  },
+  {
+    "question_id": 542,
+    "video_name": "Skip-Talbot_6-clip-5",
+    "question": "Does the funnel cloud ever develop into a full tornado?",
+    "answer": "No",
+    "question_type": [
+      "Existence",
+      "Motion",
+      "Spatial relationship",
+      "Temporal relationship"
+    ],
+    "pred": "Yes, the funnel cloud eventually develops into a full tornado, as it continues to grow and intensify."
+  },
+  {
+    "question_id": 543,
+    "video_name": "Dan-Robinson_0-clip-2",
+    "question": "Where is the tornado?",
+    "answer": "In a field.",
+    "question_type": [
+      "Entity",
+      "Location"
+    ],
+    "pred": "The tornado is located in the middle of a field."
+  },
+  {
+    "question_id": 544,
+    "video_name": "Tornado-Trackers_4-clip-4",
+    "question": "What effects did the weather have?",
+    "answer": "Debris in the air, truck turnover, destruction of buildings.",
+    "question_type": [
+      "Entity",
+      "Existence",
+      "Spatial relationship"
+    ],
+    "pred": "The weather in the image, featuring a dark and stormy sky, has caused a significant amount of rain, which has led to flooding on the road. The flooding has made the road impassable, as evidenced by the stopped car and the traffic light. The driver of the car is likely waiting for the floodwater to recede before attempting to continue their journey. The stormy weather conditions can also cause other issues such as reduced visibility, strong winds, and potential damage to infrastructure or nearby trees."
+  },
+  {
+    "question_id": 549,
+    "video_name": "Climate-Change_10-clip-14",
+    "question": "Is the precipitation causing flooding?",
+    "answer": "Yes.",
+    "question_type": [
+      "Existence",
+      "Spatial relationship"
+    ],
+    "pred": "Yes, the heavy rain is causing flooding in the area, as evidenced by the flooded street and the presence of water on the road."
+  },
+  {
+    "question_id": 551,
+    "video_name": "Skip-Talbot_3-clip-9",
+    "question": "What type of weather is happening?",
+    "answer": "Heavy rain.",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "It is raining, and the road is wet from the rain."
+  },
+  {
+    "question_id": 555,
+    "video_name": "Dan-Robinson_5-clip-2",
+    "question": "What are the clouds doing?",
+    "answer": "They are swirling.",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "The clouds are rolling in, forming a dark and ominous sky."
+  },
+  {
+    "question_id": 556,
+    "video_name": "Natural-Disaster_2-clip-1",
+    "question": "What are the people doing?",
+    "answer": "Towing a car.",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "The people are standing on the side of the road, watching the flood waters and the truck that is driving through them."
+  },
+  {
+    "question_id": 558,
+    "video_name": "Natural-Disaster_2-clip-1",
+    "question": "Where are the people at?",
+    "answer": "They are in a flooded intersection in a city.",
+    "question_type": [
+      "Location"
+    ],
+    "pred": "The people are at a flooded parking lot, standing in the water."
+  },
+  {
+    "question_id": 559,
+    "video_name": "Tornado-Trackers_7-clip-3",
+    "question": "What type of weather is happening?",
+    "answer": "Tornadoes, funnel clouds.",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "The weather in the image is stormy, with dark clouds and a stormy sky."
+  },
+  {
+    "question_id": 562,
+    "video_name": "Dan-Robinson_9-clip-0",
+    "question": "What types of weather phenomenon is happening?",
+    "answer": "Funnel cloud, hail, and rain.",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "In the image, there are two weather phenomena occurring: a tornado and a dust storm. The tornado is a powerful vortex of air that forms in the atmosphere and is characterized by its rotating funnel shape. It is often associated with severe weather conditions, such as heavy rain, strong winds, and hail. The dust storm, on the other hand, is a weather phenomenon that occurs when strong winds pick up dust and debris from the ground, creating a dense cloud of dust and debris. This can lead to reduced visibility, making it difficult for people and vehicles to navigate the area."
+  },
+  {
+    "question_id": 567,
+    "video_name": "Dan-Robinson_1-clip-2",
+    "question": "What natural phenomenon appeared with the precipitation?",
+    "answer": "Lightning.",
+    "question_type": [
+      "Existence",
+      "Motion",
+      "Spatial relationship"
+    ],
+    "pred": "With the precipitation, a natural phenomenon called a \"microburst\" appeared. Microbursts are intense localized downward air movements associated with thunderstorms and can cause strong winds and turbulence. In the image, the microburst is visible as a cloud of dust or debris, which is likely caused by the strong winds associated with the microburst. This phenomenon can pose risks to aircraft and can also cause damage to property and disrupt transportation."
+  },
+  {
+    "question_id": 568,
+    "video_name": "Dan-Robinson_1-clip-2",
+    "question": "What types of precipitation appear?",
+    "answer": "Hail and rain.",
+    "question_type": [
+      "Existence",
+      "Motion"
+    ],
+    "pred": "Snow appears in the image, indicating that it is snowing."
+  },
+  {
+    "question_id": 570,
+    "video_name": "Skip-Talbot_11-clip-3",
+    "question": "Is there just one tornado?",
+    "answer": "No.",
+    "question_type": [
+      "Entity",
+      "Existence",
+      "Number"
+    ],
+    "pred": "Yes, there is just one tornado in the image, and it is moving across the landscape."
+  },
+  {
+    "question_id": 572,
+    "video_name": "Dan-Robinson_6-clip-6",
+    "question": "Is there any large debris?",
+    "answer": "No.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, there is a large piece of debris on the road, which could potentially be a result of the storm."
+  },
+  {
+    "question_id": 575,
+    "video_name": "Weathershot_4-clip-1",
+    "question": "Are there people in the city?",
+    "answer": "Yes.",
+    "question_type": [
+      "Existence",
+      "Location"
+    ],
+    "pred": "Yes, there are people in the city, walking around and navigating the flooded streets."
+  },
+  {
+    "question_id": 576,
+    "video_name": "Weathershot_4-clip-1",
+    "question": "Where has the flooding taken place?",
+    "answer": "In cities.",
+    "question_type": [
+      "Location"
+    ],
+    "pred": "The flooding has taken place in a city, specifically in a downtown area."
+  },
+  {
+    "question_id": 580,
+    "video_name": "Millennial-Farmer_2-clip-3",
+    "question": "What kind of weeds do they come upon in the truck?",
+    "answer": "The weed is called lambs quarters.",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The weeds in the image are tall and green, indicating that they are likely to be grass or some other type of vegetation."
+  },
+  {
+    "question_id": 582,
+    "video_name": "Welker-Farms-Inc_12-clip-3",
+    "question": "Does the body of water depicted contain living organisms?",
+    "answer": "The body of water contains fish in it.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, the body of water in the image contains fish."
+  },
+  {
+    "question_id": 583,
+    "video_name": "RealAgriculture_6-clip-0",
+    "question": "What are the benefits of straight-cutting canola?",
+    "answer": "Straight-cutting canola increases the oil content and thereby increases the total yield of the crop.",
+    "question_type": [
+      "Number"
+    ],
+    "pred": "Straight-cutting canola has several benefits, including:1. Improved grain quality: Straight-cutting canola allows for better exposure of the seed to sunlight, which can lead to improved grain quality, as the seeds are more likely to dry evenly and develop a uniform color.2. Enhanced seed separation: Straight-cutting canola can help separate the seeds more easily during harvesting, reducing the amount of time and effort required to clean the grain.3. Improved seed yield: Proper straight-cutting can help ensure that the seeds are not damaged or contaminated, which can result in higher seed yield and better overall quality.4. Reduced lodging risk: Straight-cutting canola can help reduce the risk of lodging, which is the collapse of the plant's stem and leaves due to weakness or lack of support. This can lead to improved crop stability and better overall yield.5. Improved crop management: Proper straight-cutting can help farmers better manage their crop, ensuring that the seeds are exposed to the sun and air for optimal drying and development.In summary, straight-cutting canola can lead to improved grain quality, enhanced seed separation, better seed yield, reduced lodging risk, and better crop management."
+  },
+  {
+    "question_id": 584,
+    "video_name": "RealAgriculture_6-clip-0",
+    "question": "Are there products on the market that help straight-cutting canola?",
+    "answer": "There are products on the market that improve straight-cutting but should be assessed infrequently with test strips.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "Yes, there are products on the market that help straight-cutting canola. These products are called canola cutters or canola straight-cutters. They are designed to cut canola plants at the base, allowing for easier harvesting and reducing the amount of waste produced during the process. Canola cutters are typically mounted on tractors or other farm machinery and are operated by the farmer to cut the canola plants at the desired height and angle. This method of harvesting canola is more efficient and cost-effective compared to traditional hand-cutting methods, as it reduces the amount of time and labor required to harvest the crop."
+  },
+  {
+    "question_id": 587,
+    "video_name": "Welker-Farms-Inc_10-clip-6",
+    "question": "What type of equipment is shown through the aerial video?",
+    "answer": "The drone captures video of columbines plowing the farm field.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The aerial video shows a combine harvester, which is a piece of agricultural machinery used for harvesting crops."
+  },
+  {
+    "question_id": 589,
+    "video_name": "Welker-Farms-Inc_1-clip-13",
+    "question": "What kind of equipment are they advertising?",
+    "answer": "The men from the video were talking about a covered trailer used to transport grain or corn. The trailers are used a lot in big commercial farming operations.",
+    "question_type": [
+      "Other"
+    ],
+    "pred": "They are advertising a truck with a trailer, which is likely a semi-truck or a tractor-trailer."
+  },
+  {
+    "question_id": 590,
+    "video_name": "Welker-Farms-Inc_2-clip-16",
+    "question": "What is the purpose of spreading manure.",
+    "answer": "It helps to bring nutrients back into the soil for the plants to use. It also helps to keep the pH of the soil to the right place for the plants to grow.",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "Spreading manure serves several purposes in agriculture. Firstly, it is a natural fertilizer that provides essential nutrients to the soil, promoting plant growth and improving soil quality. Manure contains nitrogen, phosphorus, and potassium, which are crucial for plant development and overall crop health. Secondly, manure acts as a natural pesticide, helping to control and suppress the growth of weeds and other unwanted vegetation. The nutrients in manure also contribute to the breakdown of organic matter in the soil, improving its structure and aeration. Lastly, spreading manure on fields can help maintain soil moisture levels, prevent soil erosion, and improve soil fertility. In summary, spreading manure is an essential practice in agriculture, as it not only benefits the crops but also contributes to the overall health and sustainability of the soil."
+  },
+  {
+    "question_id": 591,
+    "video_name": "Olly's-Farm_5-clip-7",
+    "question": "What is the relationship like with this farmer and his livestock?",
+    "answer": "The farmer care for his livestock very much. He is invested and care for their wellbeing. The farmer's animals seem to care the about the farmer as well. The livestock seem very comfortable with the farmer.",
+    "question_type": [
+      "Other"
+    ],
+    "pred": "The farmer appears to have a close relationship with his livestock, as he is actively engaged in tending to them and ensuring their well-being. This can be inferred from the fact that he is driving the tractor and taking care of the cows in the field. The farmer's involvement in the process of feeding and caring for the animals suggests a sense of responsibility and dedication to the welfare of his livestock."
+  },
+  {
+    "question_id": 592,
+    "video_name": "RealAgriculture_11-clip-1",
+    "question": "Is snow beneficial for plants during a frost?",
+    "answer": "Snow is beneficial to plants during a frost.",
+    "question_type": [
+      "Temporal relationship"
+    ],
+    "pred": "Snow can be beneficial for plants during a frost, depending on the severity and duration of the frost. In some cases, a light dusting of snow can provide a layer of insulation for the plant, protecting its delicate tissues from the cold temperatures. This can help to prevent frost damage, which can occur when the temperature drops below the plant's tolerance level.However, if the frost is severe and prolonged, the snow may not provide adequate insulation, and the plant may still suffer damage. In such cases, the plant's ability to withstand the cold depends on its genetic makeup, the health of its roots, and the overall condition of the plant.In summary, snow can be beneficial for plants during a frost, but the extent of its benefits depends on the severity and duration of the frost, as well as the plant's overall health and resilience."
+  },
+  {
+    "question_id": 594,
+    "video_name": "Peterson-Farm-Bros_8-clip-0",
+    "question": "What is the tractor being used for in the video?",
+    "answer": "The tractor is being used to stack hay bales in the video.",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "The tractor is being used to pull a large wagon or cart filled with hay."
+  },
+  {
+    "question_id": 595,
+    "video_name": "Olly's-Farm_2-clip-8",
+    "question": "What crop is being saved to feed livestock in the video?",
+    "answer": "The video depicts beets that are being saved to feed livestock.",
+    "question_type": [
+      "Entity"
+    ],
+    "pred": "The crop being saved to feed livestock in the video is hay."
+  },
+  {
+    "question_id": 596,
+    "video_name": "Hamiltonville-Farm_9-manual",
+    "question": "What animal is shown in the video?",
+    "answer": "There was a dog in the video.",
+    "question_type": [
+      "Entity"
+    ],
+    "pred": "The animal shown in the video is a horse."
+  },
+  {
+    "question_id": 597,
+    "video_name": "Welker-Farms-Inc_11-manual",
+    "question": "What crop is the farmer planting in January?",
+    "answer": "The farmer is planting iceberg lettuce in January.",
+    "question_type": [
+      "Temporal relationship"
+    ],
+    "pred": "The farmer is planting wheat in January."
+  },
+  {
+    "question_id": 600,
+    "video_name": "RealAgriculture_4-clip-0",
+    "question": "What crop are they managing for in the video?",
+    "answer": "They are managing for soy beans throughout the video.",
+    "question_type": [
+      "Entity"
+    ],
+    "pred": "They are managing a crop of corn in the video."
+  },
+  {
+    "question_id": 601,
+    "video_name": "John-Suscovich_9-manual",
+    "question": "What is the material used for the top of the bar in the renovated barn from the video?",
+    "answer": "The material used for the top of the barn is siding from the outside of the barn.",
+    "question_type": [
+      "Spatial relationship"
+    ],
+    "pred": "The top of the bar in the renovated barn is made of wood."
+  },
+  {
+    "question_id": 605,
+    "video_name": "Olly's-Farm_3-clip-3",
+    "question": "What reason might a farmer have to use contractors on the farm?",
+    "answer": "A farmer might have contractors do a job if it is cheaper.",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "A farmer might use contractors on the farm for various reasons, such as specialized tasks, seasonal work, or to manage the farm's daily operations. In the image, there are several barrels and a large tank, which could be used for storing grains or other agricultural products. The presence of a person in a white shirt and a tie suggests that they might be a manager or a contractor responsible for overseeing the farm's operations, ensuring the proper storage and management of the stored goods. Additionally, the contractors could be hired to perform tasks such as harvesting, planting, or maintaining the farm's equipment, depending on the specific needs of the farm and the season."
+  },
+  {
+    "question_id": 607,
+    "video_name": "John-Suscovich_7-clip-0",
+    "question": "What structure is being pointed at throughout the video?",
+    "answer": "The poles are being pointed at throughout the video.",
+    "question_type": [
+      "Spatial relationship"
+    ],
+    "pred": "A barn is being pointed at throughout the video."
+  },
+  {
+    "question_id": 610,
+    "video_name": "How-Farms-Work_11-clip-1",
+    "question": "What is an obstacle in the pasture that requires caution from the farmer?",
+    "answer": "The pasture has sink holes that requires caution from the farmer.",
+    "question_type": [
+      "Spatial relationship"
+    ],
+    "pred": "In the pasture, there is a fallen tree that the farmer should be cautious about while driving the tractor. The tree could pose a risk of injury or damage to the tractor if the farmer were to accidentally drive over or under it. It is essential for the farmer to be aware of the tree's presence and navigate the area carefully to avoid any accidents or damage to the equipment."
+  },
+  {
+    "question_id": 613,
+    "video_name": "Peterson-Farm-Bros_7-clip-1",
+    "question": "What is the tractor doing in the video?",
+    "answer": "The tractor is fertilizing a wheat field with nitrogen.",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "The tractor is driving through a field, and it is also seen pulling a plow through the grass."
+  },
+  {
+    "question_id": 618,
+    "video_name": "Welker-Farms-Inc_8-clip-5",
+    "question": "What season is the farmer working in the video?",
+    "answer": "The season the farmer is working is the winter.",
+    "question_type": [
+      "Temporal relationship"
+    ],
+    "pred": "The farmer is working in the winter season, as evidenced by the snow-covered field and the presence of snow on the ground."
+  },
+  {
+    "question_id": 621,
+    "video_name": "How-Farms-Work_11-clip-1",
+    "question": "What kind of equipment is there?",
+    "answer": "A skid steer and a quad are in the video.",
+    "question_type": [
+      "Location",
+      "Other"
+    ],
+    "pred": "There is a vehicle, possibly a truck, and a person with a backpack in the image."
+  },
+  {
+    "question_id": 622,
+    "video_name": "How-Farms-Work_1-clip-8",
+    "question": "What is the purpose of the machine they are using?",
+    "answer": "To drive the fence posts into the ground without having to dig a hole.",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The machine they are using is a car wash, which is designed to clean and maintain the exterior of a vehicle."
+  },
+  {
+    "question_id": 624,
+    "video_name": "Hamiltonville-Farm_4-clip-3",
+    "question": "How many dogs are in the video?",
+    "answer": "There are two dogs in the video.",
+    "question_type": [
+      "Number"
+    ],
+    "pred": "There are two dogs in the video."
+  },
+  {
+    "question_id": 625,
+    "video_name": "RealAgriculture_2-manual",
+    "question": "What adjustments were made in 2020 that Canadian growers will appreciate according to the video?",
+    "answer": "The video states Canadian growers will appreciate a 2020 modification that contains a residue package and an automatic auto-slot feature.",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "In the video, the narrator discusses the adjustments made in 2020 to the John Deere 9440 tractor, which are designed to improve its performance and efficiency. These adjustments include a new front axle, a redesigned cab, and a more powerful engine. These upgrades are expected to benefit Canadian growers by providing better traction, enhanced visibility, and increased power, which ultimately leads to better crop yields and reduced operating costs."
+  },
+  {
+    "question_id": 631,
+    "video_name": "Olly's-Farm_11-clip-1",
+    "question": "What weather condition is the farmer anticipating in the video?",
+    "answer": "The farmer is anticipating rain in the video due to the dark sky.",
+    "question_type": [
+      "Temporal relationship"
+    ],
+    "pred": "The farmer is anticipating rain, as he is seen walking through the field with a rain suit on."
+  },
+  {
+    "question_id": 633,
+    "video_name": "Hamiltonville-Farm_3-clip-9",
+    "question": "What is the farmer doing in the video?",
+    "answer": "The farmer is changing tires in the video.",
+    "question_type": [
+      "Motion"
+    ],
+    "pred": "The farmer is driving a tractor down a dirt road, pulling a plow behind it."
+  },
+  {
+    "question_id": 634,
+    "video_name": "Peterson-Farm-Bros_1-clip-2",
+    "question": "What kind of equipment is used in the video to irrigate the crop?",
+    "answer": "There is a floating pump to pump the water through the irrigation lines. There is a pivot which is a large arm that has sprinklers to spray water over the entire field.",
+    "question_type": [
+      "Existence",
+      "Number"
+    ],
+    "pred": "In the video, a tractor is used to irrigate the crop."
+  },
+  {
+    "question_id": 635,
+    "video_name": "Peterson-Farm-Bros_7-clip-1",
+    "question": "What is being sprayed on the field in the video?",
+    "answer": "The tractor is spraying fertilizer that is high in nitrogen.",
+    "question_type": [
+      "Other"
+    ],
+    "pred": "A green substance, possibly a liquid or a chemical, is being sprayed on the field in the video."
+  },
+  {
+    "question_id": 636,
+    "video_name": "Millennial-Farmer_12-clip-10",
+    "question": "What is the purpose of \"Field View\"?",
+    "answer": "This allows the farmers to see how their crops are growing and whether there are spots of damage or of weak growth.",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "Field View is a feature in Google Earth that allows users to explore and navigate through aerial imagery of fields, farms, and agricultural land. It provides a bird's-eye view of the landscape, allowing users to easily identify and locate specific areas of interest, such as farms, fields, or crop patterns. This feature can be particularly useful for farmers, agricultural researchers, and anyone interested in the management and monitoring of agricultural land."
+  },
+  {
+    "question_id": 637,
+    "video_name": "Millennial-Farmer_10-clip-0",
+    "question": "Is this batch of grain good?",
+    "answer": "Yes, this grain is good. It is light and \"fluffy\" as said in the video.",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "It is not possible to determine the quality of the grain based on the image alone. The grain could be good or potentially damaged, depending on factors such as its appearance, moisture content, and overall condition."
+  },
+  {
+    "question_id": 639,
+    "video_name": "Welker-Farms-Inc_11-manual",
+    "question": "What would the fertilizer corrode to make the machine unusable?",
+    "answer": "The fertilizer corroded holes the undercarriage and the metering system",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The fertilizer would corrode the metal parts of the machine, such as the wheels, axles, and other components, making them rusty and weakened over time. This would eventually lead to the machine becoming unusable due to the damage caused by the corrosion."
+  },
+  {
+    "question_id": 640,
+    "video_name": "Welker-Farms-Inc_11-manual",
+    "question": "What could cause machines to break down?",
+    "answer": "The fertilizer used is very corrosive to the metal on the machines.",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "There are several factors that can cause machines, such as tractors, to break down. Some of these factors include:1. Mechanical failure: Over time, machines may experience wear and tear, leading to mechanical failure. This can be due to issues with the engine, transmission, or other components.2. Electrical problems: Malfunctioning electrical systems can cause machines to break down. This can include issues with the battery, alternator, or wiring.3. Fuel or lubrication problems: Insufficient or contaminated fuel, low oil levels, or dirty fuel filters can all contribute to machine breakdowns.4. Overheating: Machines can overheat due to a lack of proper cooling systems or if they are operating in extreme temperatures.5. Damage from accidents or collisions: A collision with another object or vehicle can cause significant damage to a machine, leading to breakdowns.6. Wear and tear from use: Regular use of machines can cause wear and tear, which can eventually lead to breakdowns if not properly maintained.7. Human error: Operator error, such as misuse of the equipment or failure to follow safety guidelines, can also contribute to machine breakdowns.In the case of the tractor in the image, it is not possible to determine the exact cause of the breakdown. However, it is clear that the tractor has experienced some form of malfunction, and the man is attempting to fix it."
+  },
+  {
+    "question_id": 641,
+    "video_name": "Welker-Farms-Inc_0-clip-3",
+    "question": "What will they be doing to the backhoe in the repair shop?",
+    "answer": "The backhoe will be greased.",
+    "question_type": [
+      "Reasoning"
+    ],
+    "pred": "The backhoe will be undergoing repairs, which may involve fixing any damaged parts, replacing worn-out components, or performing maintenance to ensure its proper functioning."
+  },
+  {
+    "question_id": 642,
+    "video_name": "RealAgriculture_8-clip-0",
+    "question": "What is the brand of fungicide being used in the video?",
+    "answer": "The fungicide depicted is Trivapro.",
+    "question_type": [
+      "Other"
+    ],
+    "pred": "The brand of fungicide being used in the video is Bayer."
+  },
+  {
+    "question_id": 647,
+    "video_name": "Olly's-Farm_4-clip-5",
+    "question": "What color is the tractor in the video?",
+    "answer": "The tractor in this video is red.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The tractor in the video is green."
+  },
+  {
+    "question_id": 650,
+    "video_name": "How-Farms-Work_4-clip-0",
+    "question": "What color is the tractor in the video?",
+    "answer": "The tractor is green in the video.",
+    "question_type": [
+      "Existence"
+    ],
+    "pred": "The tractor in the video is green."
+  }
+]
